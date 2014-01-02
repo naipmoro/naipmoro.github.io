@@ -1,1 +1,24 @@
-Hello World
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+  <head>
+    <title>Solving the quadratic equation.</title>
+    <meta charset="utf-8">
+    <script type="text/javascript"
+            src="http://cdn.mathjax.org/mathjax/2.0-latest/MathJax.js?config=TeX-MML-AM_HTMLorMML-full">
+    </script>
+  </head>
+
+  <body>
+    Suppose `ax^2+b x+c=0` and `a!=0`. We first divide by `a` to get `x^2+b/a x+c/a=0`. 
+
+    Then we complete the square and obtain `x^2+b/a x+(b/(2a))^2-(b/(2a))^2+c/a=0`. 
+    The first three terms factor to give `(x+b/(2a))^2=(b^2)/(4a^2)-c/a`.
+    Now we take square roots on both sides and get `x+b/(2a)=+-sqrt((b^2)/(4a^2)-c/a)`.
+
+    Finally we subtract `b/(2a)` from both sides and simplify to get the two solutions: 
+    `x_(1,2)=(-b+-sqrt(b^2 - 4a c))/(2a)`
+  </body>
+
+</html>
