@@ -1,2 +1,0 @@
-naipmoro.github.io
-==================
