@@ -1,2 +1,5 @@
 name: Exercises in Boundary Formalism
 markdown: kramdown
+show_drafts: false
+timezone: America/New_York
+

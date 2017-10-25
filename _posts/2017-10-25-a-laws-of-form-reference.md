@@ -1,6 +1,7 @@
 ---
-layout: default
-title: A Laws of Form Reference
+layout: post
+title: "A Laws of Form Reference"
+date: 2017-10-25
 ---
 <p>A collection of essential equations from <em>LoF</em>.
 <a href="https://naipmoro.files.wordpress.com/2017/07/lofref.pdf">
