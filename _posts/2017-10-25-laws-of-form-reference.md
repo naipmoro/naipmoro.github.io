@@ -13,7 +13,7 @@ in cross notation.
 $\require{enclose}$
 $
 \newcommand{\CR}[1]{\enclose{actuarial}{#1}}
-\newcommand{\st}[1]{\small\{\textsf{#1}}}
+\newcommand{\st}[1]{\small\{\text{#1}}}
 $
 
 $$\begin{array}{l l4}
