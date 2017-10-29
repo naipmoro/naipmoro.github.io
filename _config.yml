@@ -1,5 +1,14 @@
 name: Exercises in Boundary Formalism
+author: naipmoro
+email: naipmoro@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  An exploration of George Spencer-Brown's Laws of Form and related
+  boundary systems.
 markdown: kramdown
 show_drafts: false
 timezone: America/New_York
+theme: minima
+plugins:
+  - jekyll-seo-tag
+
 

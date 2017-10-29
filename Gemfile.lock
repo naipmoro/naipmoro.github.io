@@ -227,6 +227,7 @@ PLATFORMS
 DEPENDENCIES
   github-linguist
   github-pages
+  minima
 
 BUNDLED WITH
    1.15.4
