@@ -16,10 +16,10 @@ $
 \newcommand{\st}[1]{\small\{\text{#1}}}
 $
 
-$$\begin{array}{l l4}
+$$\begin{array}{l l}
 \textbf{Axioms} & \\
 \CR{\CR{p}\,p} =    & \st{(Position J1)} \\
-\CR{\CR{p \,r}\;\CR{q \,r}} = \CR{\CR{p} \;\CR{q}} \,r & \st{(Transposition J2)} \\
+\CR{\CR{p\,r}\;\CR{q\,r}} = \CR{\CR{p}\;\CR{q}}\,r & \st{(Transposition J2)} \\
  & \\
 \textbf{Consequences} & \\
 \CR{\CR{p}} = p 	  	& \st{(Reflexion C1)} \\
@@ -27,8 +27,8 @@ $$\begin{array}{l l4}
 \CR{\;\,}\, p = \CR{\;\,} & \st{(Integration C3)}\\
 \CR{\CR{p}\,q}\, p = p & \st{(Occultation C4)}\\
 p\,p = p & \st{(Iteration C5)}\\
-\CR{\CR{p}\; \CR{q}}\; \CR{\CR{p}\, q} = p & \st{(Extension C6)}\\
-\CR{\CR{\CR{p}\, q}\, r} = \CR{p \,r}\; \CR{\CR{q} \,r} & \st{(Echelon C7)}\\
+\CR{\CR{p}\;\CR{q}}\;\CR{\CR{p}\,q} = p & \st{(Extension C6)}\\
+\CR{\CR{\CR{p}\,q}\,r} = \CR{p\,r}\; \CR{\CR{q}\,r} & \st{(Echelon C7)}\\
 \CR{\CR{p}\; \CR{q\, x}\; \CR{r \,x}} 
  = \CR{\CR{p} \;\CR{q}\; \CR{r}}\; \CR{\CR{p}\; \CR{x}} & \st{(Modified transposition C8)}\\
 \CR{\CR{\CR{p}\; \CR{r}} \;\CR{\CR{q}\; \CR{r}} \;\CR{\CR{x}\, r} \;\CR{\CR{y}\, r}} 
