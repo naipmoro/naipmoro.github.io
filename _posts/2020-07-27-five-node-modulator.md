@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A five-node modulator circuit"
-date: 2020-06-24
+date: 2020-07-27
 ---
 George Spencer-Brown and Luis H. Kauffman
 have demonstrated six-node modulators, and the question arises whether that is
