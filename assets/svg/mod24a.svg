@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   id="svg4323"
+   viewBox="0 0 490.80811 509.59006"
+   height="509.59006"
+   width="490.80811">
+  <defs
+     id="defs4325">
+    <linearGradient
+       id="linearGradient5167"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5169" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5171" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient5167"
+       id="linearGradient5177"
+       x1="190.80096"
+       y1="-1.0319999"
+       x2="209.03104"
+       y2="-1.0319999"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata4328">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     transform="translate(-21.738792,-35.529625)"
+     id="layer1">
+    <polygon
+       transform="matrix(1.1231307,0,0,1.16611,267.14285,290.32466)"
+       style="fill:#ffffff;stroke:none"
+       points="218.5,218.5 -218.5,218.5 -218.5,218.5 -218.5,-218.5 218.5,-218.5 "
+       id="polygon7" />
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="node1"
+       class="node"
+       style="stroke:#000000;stroke-width:0.9632653;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <title
+         id="title10">0</title>
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.9632653;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="14.5"
+         cx="-200"
+         cy="-2.4869001e-14"
+         id="ellipse12" />
+      <text
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle;stroke:none;stroke-opacity:1"
+         x="-200"
+         y="3.7"
+         font-size="14.00"
+         id="text14">m0</text>
+    </g>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="node3"
+       class="node">
+      <title
+         id="title17">1</title>
+      <circle
+         style="fill:none;stroke:#000000"
+         r="14.5"
+         cx="-141.42101"
+         cy="141.42101"
+         id="ellipse19" />
+      <text
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle"
+         x="-141.42101"
+         y="145.121"
+         font-size="14.00"
+         id="text21">m1</text>
+    </g>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="edge1"
+       class="edge">
+      <title
+         id="title24">0-&gt;1</title>
+      <path
+         style="fill:none;stroke:#000000"
+         d="m -194.383,13.5601 c 9.99,24.1186 30.955,74.7327 43.301,104.5379"
+         id="path26" />
+      <polygon
+         style="fill:#000000;stroke:#000000"
+         points="-147.107,127.695 -154.168,119.795 -147.701,117.116 -147.701,117.116 "
+         id="polygon28" />
+    </g>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="node4"
+       class="node">
+      <title
+         id="title31">2</title>
+      <circle
+         style="fill:none;stroke:#000000"
+         r="14.5"
+         cx="-3.73035e-14"
+         cy="200"
+         id="ellipse33" />
+      <text
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle"
+         x="-3.67394e-14"
+         y="203.7"
+         font-size="14.00"
+         id="text35">m2</text>
+    </g>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="edge9"
+       class="edge">
+      <title
+         id="title38">0-&gt;2</title>
+      <path
+         style="fill:none;stroke:#000000"
+         d="M -189.529,10.4713 C -157.128,42.8721 -58.2552,141.745 -17.6704,182.33"
+         id="path40" />
+      <polygon
+         style="fill:#000000;stroke:#000000"
+         points="-10.3676,189.632 -19.9136,185.036 -14.9638,180.086 -14.9638,180.086 "
+         id="polygon42" />
+    </g>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="node2"
+       class="node"
+       style="stroke:#000000;stroke-width:0.9632653;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <title
+         id="title45">4</title>
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.9632653;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="14.5"
+         cx="200"
+         cy="4.9738002e-14"
+         id="ellipse47" />
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.99985695px;line-height:125%;font-family:Times, serif;-inkscape-font-specification:'Times, serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9632653;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="200"
+         y="3.7"
+         font-size="14.00"
+         id="text49">m4</text>
+    </g>
+    <circle
+       id="ellipse54"
+       cy="119.83374"
+       cx="412.52847"
+       r="15.052966"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text56"
+       font-size="14.00"
+       y="123.67485"
+       x="412.52847"
+       style="font-size:14.53389835px;font-family:Times, serif;text-anchor:middle;stroke-width:1.9265306;stroke-miterlimit:4;stroke-dasharray:none">m5</text>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="edge5"
+       class="edge">
+      <title
+         id="title59">4-&gt;5</title>
+      <path
+         style="fill:none;stroke:#000000"
+         d="m 194.383,-13.5601 c -9.99,-24.1186 -30.955,-74.7327 -43.301,-104.5379"
+         id="path61" />
+      <polygon
+         style="fill:#000000;stroke:#000000"
+         points="147.107,-127.695 154.168,-119.795 147.701,-117.116 147.701,-117.116 "
+         id="polygon63" />
+    </g>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="node7"
+       class="node">
+      <title
+         id="title66">6</title>
+      <circle
+         style="fill:none;stroke:#000000"
+         r="14.5"
+         cx="6.0396099e-14"
+         cy="-200"
+         id="ellipse68" />
+      <text
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle"
+         x="6.1232303e-14"
+         y="-196.3"
+         font-size="14.00"
+         id="text70">m6</text>
+    </g>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="edge10"
+       class="edge">
+      <title
+         id="title73">4-&gt;6</title>
+      <path
+         style="fill:none;stroke:#000000"
+         d="M 189.529,-10.4713 C 157.128,-42.8721 58.2552,-141.745 17.6704,-182.33"
+         id="path75" />
+      <polygon
+         style="fill:#000000;stroke:#000000"
+         points="10.3676,-189.632 19.9136,-185.036 14.9638,-180.086 14.9638,-180.086 "
+         id="polygon77" />
+    </g>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="edge2"
+       class="edge">
+      <title
+         id="title80">1-&gt;2</title>
+      <path
+         style="fill:none;stroke:#000000"
+         d="m -127.861,147.038 c 24.118,9.99 74.7325,30.955 104.5373,43.301"
+         id="path82" />
+      <polygon
+         style="fill:#000000;stroke:#000000"
+         points="-13.7268,194.314 -24.305,193.721 -21.6262,187.254 -21.6262,187.254 "
+         id="polygon84" />
+    </g>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="edge11"
+       class="edge">
+      <title
+         id="title87">1-&gt;5</title>
+      <path
+         style="fill:none;stroke:#000000"
+         d="M -132.966,129.073 C -94.2758,83.2025 64.8047,-76.218 121.416,-126.329"
+         id="path89" />
+      <polygon
+         style="fill:#000000;stroke:#000000"
+         points="129.294,-133.152 124.026,-123.96 119.443,-129.251 119.443,-129.251 "
+         id="polygon91" />
+    </g>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="node5"
+       class="node">
+      <title
+         id="title94">3</title>
+      <circle
+         style="fill:none;stroke:#000000"
+         r="14.5"
+         cx="141.42101"
+         cy="141.42101"
+         id="ellipse96" />
+      <text
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle"
+         x="141.42101"
+         y="145.121"
+         font-size="14.00"
+         id="text98">m3</text>
+    </g>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="edge3"
+       class="edge">
+      <title
+         id="title101">2-&gt;3</title>
+      <path
+         style="fill:none;stroke:#000000"
+         d="m 13.5601,194.383 c 24.1186,-9.99 74.7327,-30.955 104.5379,-43.301"
+         id="path103" />
+      <polygon
+         style="fill:#000000;stroke:#000000"
+         points="127.695,147.107 119.795,154.168 117.116,147.701 117.116,147.701 "
+         id="polygon105" />
+    </g>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="edge4"
+       class="edge">
+      <title
+         id="title108">3-&gt;4</title>
+      <path
+         style="fill:none;stroke:#000000"
+         d="m 147.038,127.861 c 9.99,-24.118 30.955,-74.7325 43.301,-104.5373"
+         id="path110" />
+      <polygon
+         style="fill:#000000;stroke:#000000"
+         points="194.314,13.7268 193.721,24.305 187.254,21.6262 187.254,21.6262 "
+         id="polygon112" />
+    </g>
+    <circle
+       id="ellipse117"
+       cy="119.83374"
+       cx="118.9001"
+       r="15.052966"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text119"
+       font-size="14.00"
+       y="123.67485"
+       x="118.9001"
+       style="font-size:14.53389835px;font-family:Times, serif;text-anchor:middle">m7</text>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="edge12"
+       class="edge">
+      <title
+         id="title122">3-&gt;7</title>
+      <path
+         style="fill:none;stroke:#000000"
+         d="M 129.073,132.966 C 83.2025,94.2758 -76.218,-64.8047 -126.329,-121.416"
+         id="path124" />
+      <polygon
+         style="fill:#000000;stroke:#000000"
+         points="-133.152,-129.294 -123.96,-124.026 -129.251,-119.443 -129.251,-119.443 "
+         id="polygon126" />
+    </g>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="edge13"
+       class="edge">
+      <title
+         id="title129">5-&gt;1</title>
+      <path
+         style="fill:none;stroke:#000000"
+         d="M 132.966,-129.073 C 94.2758,-83.2025 -64.8047,76.218 -121.416,126.329"
+         id="path131" />
+      <polygon
+         style="fill:#000000;stroke:#000000"
+         points="-129.294,133.152 -124.026,123.96 -119.443,129.251 -119.443,129.251 "
+         id="polygon133" />
+    </g>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="edge6"
+       class="edge">
+      <title
+         id="title136">5-&gt;6</title>
+      <path
+         style="fill:none;stroke:#000000"
+         d="m 127.861,-147.038 c -24.118,-9.99 -74.7325,-30.955 -104.5373,-43.301"
+         id="path138" />
+      <polygon
+         style="fill:#000000;stroke:#000000"
+         points="13.7268,-194.314 24.305,-193.721 21.6262,-187.254 21.6262,-187.254 "
+         id="polygon140" />
+    </g>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="edge7"
+       class="edge">
+      <title
+         id="title143">6-&gt;7</title>
+      <path
+         style="fill:none;stroke:#000000"
+         d="m -13.5601,-194.383 c -24.1186,9.99 -74.7327,30.955 -104.5379,43.301"
+         id="path145" />
+      <polygon
+         style="fill:#000000;stroke:#000000"
+         points="-127.695,-147.107 -119.795,-154.168 -117.116,-147.701 -117.116,-147.701 "
+         id="polygon147" />
+    </g>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="edge8"
+       class="edge">
+      <title
+         id="title150">7-&gt;0</title>
+      <path
+         style="fill:none;stroke:#000000"
+         d="m -147.038,-127.861 c -9.99,24.118 -30.955,74.7325 -43.301,104.5373"
+         id="path152" />
+      <polygon
+         style="fill:#000000;stroke:#000000"
+         points="-194.314,-13.7268 -193.721,-24.305 -187.254,-21.6262 -187.254,-21.6262 "
+         id="polygon154" />
+    </g>
+    <g
+       transform="matrix(1.0381356,0,0,1.0381356,265.71428,266.64792)"
+       id="edge14"
+       class="edge">
+      <title
+         id="title157">7-&gt;3</title>
+      <path
+         style="fill:none;stroke:#000000"
+         d="M -129.073,-132.966 C -83.2025,-94.2758 76.218,64.8047 126.329,121.416"
+         id="path159" />
+      <polygon
+         style="fill:#000000;stroke:#000000"
+         points="133.152,129.294 123.96,124.026 129.251,119.443 129.251,119.443 "
+         id="polygon161" />
+    </g>
+    <g
+       transform="matrix(0.91223903,-0.6252881,0.37803627,1.5088822,293.02421,385.21017)"
+       id="edge4-7"
+       class="edge">
+      <title
+         id="title108-2">3-&gt;4</title>
+      <path
+         style="fill:none;stroke:#000000"
+         d="m 147.038,127.861 c 9.99,-24.118 30.955,-74.7325 43.301,-104.5373"
+         id="path110-6" />
+      <polygon
+         style="fill:#000000;stroke:#000000"
+         points="187.254,21.6262 187.254,21.6262 194.314,13.7268 193.721,24.305 "
+         id="polygon112-4" />
+    </g>
+    <g
+       transform="matrix(0.91223903,-0.6252881,0.37803627,1.5088822,-126.41467,385.78268)"
+       id="edge4-7-0"
+       class="edge">
+      <title
+         id="title108-2-9">3-&gt;4</title>
+      <path
+         style="fill:none;stroke:#000000"
+         d="m 147.038,127.861 c 9.99,-24.118 30.955,-74.7325 43.301,-104.5373"
+         id="path110-6-9" />
+      <polygon
+         style="fill:#000000;stroke:#000000"
+         points="193.721,24.305 187.254,21.6262 187.254,21.6262 194.314,13.7268 "
+         id="polygon112-4-4" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="259.80206"
+       y="543.35352"
+       id="text4325"><tspan
+         id="tspan4327"
+         x="259.80206"
+         y="543.35352">A</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 474.52581,485.78267 C 276.13974,534.7957 276.91773,534.7957 276.91773,534.7957"
+       id="path4329" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.059479px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 56.006839,487.20618 C 255.49547,536.7308 254.79842,536.34319 254.79842,536.34319"
+       id="path4329-5" />
+  </g>
+</svg>

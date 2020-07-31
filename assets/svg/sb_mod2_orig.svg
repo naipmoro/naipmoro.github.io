@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="470.02783"
+   height="310.73743"
+   viewBox="0 0 470.02784 310.73743"
+   id="svg4349"
+   version="1.1">
+  <defs
+     id="defs4351">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path10880" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata4354">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-93.20037,-103.06492)">
+    <g
+       transform="matrix(1.25,0,0,1.25,121.18916,243.58142)"
+       class="graph"
+       id="graph0">
+      <title
+         id="title7242">sb_modulator2</title>
+      <polygon
+         style="fill:#ffffff;stroke:none"
+         transform="matrix(0.83653451,0,0,1.0489027,3.5415378,11.881771)"
+         id="polygon7244"
+         points="418.5,-118.5 418.5,118.5 -31,118.5 -31,118.5 -31,-118.5 " />
+      <!-- &#45;1 -->
+      <!-- 0 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="node"
+         id="node2">
+        <title
+           id="title7252">0</title>
+        <circle
+           style="fill:none;stroke:#000000"
+           r="14.5"
+           id="ellipse7254"
+           cy="-50"
+           cx="50" />
+        <text
+           style="font-size:14.32312886px;font-family:Times, serif;text-anchor:middle;-inkscape-font-specification:'Times, serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-align:center;writing-mode:lr;line-height:125%;"
+           id="text7256"
+           font-size="14.00"
+           y="-46.299999"
+           x="50">m<tspan
+   id="tspan5154"
+   style="font-size:14.32312886px;baseline-shift:sub;-inkscape-font-specification:'Times, serif, Normal';font-family:Times, serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;line-height:125%;">0</tspan>
+</text>
+      </g>
+      <!-- &#45;1&#45;&gt;0 -->
+      <g
+         transform="matrix(0.78199404,0,0,0.79355245,-3.2970824,17.950735)"
+         class="edge"
+         id="edge1">
+        <title
+           id="title7259">-1-&gt;0</title>
+        <path
+           style="fill:none;stroke:#000000"
+           id="path7261"
+           d="M 3.59588,-3.59588 C 9.57796,-9.57796 21.9515,-21.9515 32.4177,-32.4177" />
+        <polygon
+           style="fill:#000000;stroke:#000000"
+           id="polygon7263"
+           points="30.037,-34.9868 39.583,-39.583 34.9868,-30.037 30.037,-34.9868 " />
+      </g>
+      <!-- 4 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="node"
+         id="node3">
+        <title
+           id="title7266">4</title>
+        <circle
+           style="fill:none;stroke:#000000"
+           r="14.5"
+           id="ellipse7268"
+           cy="50"
+           cx="250" />
+        <text
+           style="font-size:14.32312886px;font-family:Times, serif;text-anchor:middle;-inkscape-font-specification:'Times, serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-align:center;writing-mode:lr;line-height:125%;"
+           id="text7270"
+           font-size="14.00"
+           y="53.700001"
+           x="250">m<tspan
+   id="tspan5162"
+   style="font-size:14.32312886px;baseline-shift:sub;-inkscape-font-specification:'Times, serif, Normal';font-family:Times, serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;line-height:125%;">4</tspan>
+</text>
+      </g>
+      <!-- &#45;1&#45;&gt;4 -->
+      <g
+         transform="matrix(0.87082267,0,0,0.86597601,-13.389264,18.366607)"
+         class="edge"
+         id="edge2">
+        <title
+           id="title7273">-1-&gt;4</title>
+        <path
+           style="fill:none;stroke:#000000"
+           id="path7275"
+           d="m 17.5795,3.5159 c 43.7998,8.76 157.8675,31.5735 208.0855,41.617" />
+        <polygon
+           style="fill:#000000;stroke:#000000"
+           id="polygon7277"
+           points="235.635,47.1269 225.142,48.5977 226.515,41.7337 226.515,41.7337 " />
+      </g>
+      <!-- 1 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="node"
+         id="node4">
+        <title
+           id="title7280">1</title>
+        <circle
+           style="fill:none;stroke:#000000"
+           r="14.5"
+           id="ellipse7282"
+           cy="100"
+           cx="100" />
+        <text
+           style="font-size:14.32312886px;font-family:Times, serif;text-anchor:middle;-inkscape-font-specification:'Times, serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-align:center;writing-mode:lr;line-height:125%;"
+           id="text7284"
+           font-size="14.00"
+           y="103.7"
+           x="100">m<tspan
+   id="tspan5156"
+   style="font-size:14.32312886px;baseline-shift:sub;-inkscape-font-specification:'Times, serif, Normal';font-family:Times, serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;line-height:125%;">1</tspan>
+</text>
+      </g>
+      <!-- 0&#45;&gt;1 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="edge"
+         id="edge3">
+        <title
+           id="title7287">0-&gt;1</title>
+        <path
+           style="fill:none;stroke:#000000"
+           id="path7289"
+           d="M 54.6143,-36.1572 C 63.1721,-10.4838 81.591,44.7729 92.1449,76.4346" />
+        <polygon
+           style="fill:#000000;stroke:#000000"
+           id="polygon7291"
+           points="95.5549,75.597 95.5549,75.597 95.3969,86.1907 88.9142,77.8107 " />
+      </g>
+      <!-- 2 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="node"
+         id="node5">
+        <title
+           id="title7294">2</title>
+        <circle
+           style="fill:none;stroke:#000000"
+           r="14.5"
+           id="ellipse7296"
+           cy="-50"
+           cx="150" />
+        <text
+           style="font-size:14.32312886px;font-family:Times, serif;text-anchor:middle;-inkscape-font-specification:'Times, serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-align:center;writing-mode:lr;line-height:125%;"
+           id="text7298"
+           font-size="14.00"
+           y="-46.299999"
+           x="150">m<tspan
+   id="tspan5158"
+   style="font-size:14.32312886px;baseline-shift:sub;-inkscape-font-specification:'Times, serif, Normal';font-family:Times, serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;line-height:125%;">2</tspan>
+</text>
+      </g>
+      <!-- 0&#45;&gt;2 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="edge"
+         id="edge11">
+        <title
+           id="title7301">0-&gt;2</title>
+        <path
+           style="fill:none;stroke:#000000"
+           id="path7303"
+           d="m 64.7553,-50 c 15.8787,0 41.4057,0 60.3927,0" />
+        <polygon
+           style="fill:#000000;stroke:#000000"
+           id="polygon7305"
+           points="125.184,-53.5001 125.184,-53.5001 135.184,-50 125.184,-46.5001 " />
+      </g>
+      <!-- 5 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="node"
+         id="node7">
+        <title
+           id="title7308">5</title>
+        <circle
+           style="fill:none;stroke:#000000"
+           r="14.5"
+           id="ellipse7310"
+           cy="100"
+           cx="300" />
+        <text
+           style="font-size:14.32312886px;font-family:Times, serif;text-anchor:middle;-inkscape-font-specification:'Times, serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-align:center;writing-mode:lr;line-height:125%;"
+           id="text7312"
+           font-size="14.00"
+           y="103.7"
+           x="300">m<tspan
+   id="tspan5164"
+   style="font-size:14.32312886px;baseline-shift:sub;-inkscape-font-specification:'Times, serif, Normal';font-family:Times, serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;line-height:125%;">5</tspan>
+</text>
+      </g>
+      <!-- 4&#45;&gt;5 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="edge"
+         id="edge7">
+        <title
+           id="title7315">4-&gt;5</title>
+        <path
+           style="fill:none;stroke:#000000"
+           id="path7317"
+           d="m 260.604,60.6037 c 6.231,6.2313 14.272,14.2727 21.464,21.4641" />
+        <polygon
+           style="fill:#000000;stroke:#000000"
+           id="polygon7319"
+           points="284.815,79.8656 284.815,79.8656 289.412,89.4116 279.866,84.8154 " />
+      </g>
+      <!-- 6 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="node"
+         id="node8">
+        <title
+           id="title7322">6</title>
+        <circle
+           style="fill:none;stroke:#000000"
+           r="14.5"
+           id="ellipse7324"
+           cy="50"
+           cx="350" />
+        <text
+           style="font-size:14.32312886px;font-family:Times, serif;text-anchor:middle;-inkscape-font-specification:'Times, serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-align:center;writing-mode:lr;line-height:125%;"
+           id="text7326"
+           font-size="14.00"
+           y="53.700001"
+           x="350">m<tspan
+   id="tspan5166"
+   style="font-size:14.32312886px;baseline-shift:sub;-inkscape-font-specification:'Times, serif, Normal';font-family:Times, serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;line-height:125%;">6</tspan>
+</text>
+      </g>
+      <!-- 4&#45;&gt;6 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="edge"
+         id="edge12">
+        <title
+           id="title7329">4-&gt;6</title>
+        <path
+           style="fill:none;stroke:#000000"
+           id="path7331"
+           d="m 264.755,50 c 15.879,0 41.406,0 60.393,0" />
+        <polygon
+           style="fill:#000000;stroke:#000000"
+           id="polygon7333"
+           points="325.184,46.4999 325.184,46.4999 335.184,50 325.184,53.4999 " />
+      </g>
+      <!-- 1&#45;&gt;2 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="edge"
+         id="edge4">
+        <title
+           id="title7336">1-&gt;2</title>
+        <path
+           style="fill:none;stroke:#000000"
+           id="path7338"
+           d="M 104.614,86.1572 C 113.172,60.4838 131.591,5.22715 142.145,-26.4346" />
+        <polygon
+           style="fill:#000000;stroke:#000000"
+           id="polygon7340"
+           points="138.914,-27.8107 138.914,-27.8107 145.397,-36.1907 145.555,-25.597 " />
+      </g>
+      <!-- 1&#45;&gt;5 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="edge"
+         id="edge13">
+        <title
+           id="title7343">1-&gt;5</title>
+        <path
+           style="fill:none;stroke:#000000"
+           id="path7345"
+           d="M 114.064,96.3326 C 147.773,92.5591 233.509,92.25 275.741,95.4054" />
+        <polygon
+           style="fill:#000000;stroke:#000000"
+           id="polygon7347"
+           points="276.31,91.9427 276.31,91.9427 285.952,96.3343 275.676,98.9139 " />
+      </g>
+      <!-- 3 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="node"
+         id="node6">
+        <title
+           id="title7350">3</title>
+        <circle
+           style="fill:none;stroke:#000000"
+           r="14.5"
+           id="ellipse7352"
+           cy="-100"
+           cx="200" />
+        <text
+           style="font-size:14.32312886px;font-family:Times, serif;text-anchor:middle;-inkscape-font-specification:'Times, serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-align:center;writing-mode:lr;line-height:125%;"
+           id="text7354"
+           font-size="14.00"
+           y="-96.300003"
+           x="200">m<tspan
+   id="tspan5160"
+   style="font-size:14.32312886px;baseline-shift:sub;-inkscape-font-specification:'Times, serif, Normal';font-family:Times, serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;line-height:125%;">3</tspan>
+</text>
+      </g>
+      <!-- 2&#45;&gt;3 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="edge"
+         id="edge5">
+        <title
+           id="title7357">2-&gt;3</title>
+        <path
+           style="fill:none;stroke:#000000"
+           id="path7359"
+           d="m 160.604,-60.6037 c 6.231,-6.2313 14.272,-14.2727 21.464,-21.4641" />
+        <polygon
+           style="fill:#000000;stroke:#000000"
+           id="polygon7361"
+           points="179.866,-84.8154 179.866,-84.8154 189.412,-89.4116 184.815,-79.8656 " />
+      </g>
+      <!-- 3&#45;&gt;4 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="edge"
+         id="edge6">
+        <title
+           id="title7364">3-&gt;4</title>
+        <path
+           style="fill:none;stroke:#000000"
+           id="path7366"
+           d="m 204.614,-86.1572 c 8.558,25.6734 26.977,80.93005 37.531,112.5918" />
+        <polygon
+           style="fill:#000000;stroke:#000000"
+           id="polygon7368"
+           points="245.555,25.597 245.555,25.597 245.397,36.1907 238.914,27.8107 " />
+      </g>
+      <!-- 7 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="node"
+         id="node9">
+        <title
+           id="title7371">7</title>
+        <circle
+           style="fill:none;stroke:#000000"
+           r="14.5"
+           id="ellipse7373"
+           cy="-100"
+           cx="400" />
+        <text
+           style="font-size:14.32312886px;font-family:Times, serif;text-anchor:middle;-inkscape-font-specification:'Times, serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-align:center;writing-mode:lr;line-height:125%;"
+           id="text7375"
+           font-size="14.00"
+           y="-96.300003"
+           x="400">m<tspan
+   id="tspan5168"
+   style="font-size:14.32312886px;baseline-shift:sub;-inkscape-font-specification:'Times, serif, Normal';font-family:Times, serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;line-height:125%;">7</tspan>
+</text>
+      </g>
+      <!-- 3&#45;&gt;7 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="edge"
+         id="edge14">
+        <title
+           id="title7378">3-&gt;7</title>
+        <path
+           style="fill:none;stroke:#000000"
+           id="path7380"
+           d="m 214.064,-103.667 c 33.709,-3.774 119.445,-4.083 161.677,-0.928" />
+        <polygon
+           style="fill:#000000;stroke:#000000"
+           id="polygon7382"
+           points="376.31,-108.057 376.31,-108.057 385.952,-103.666 375.676,-101.086 " />
+      </g>
+      <!-- 5&#45;&gt;1 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="edge"
+         id="edge15">
+        <title
+           id="title7385">5-&gt;1</title>
+        <path
+           style="fill:none;stroke:#000000"
+           id="path7387"
+           d="m 285.936,103.667 c -33.709,3.774 -119.445,4.083 -161.677,0.928" />
+        <polygon
+           style="fill:#000000;stroke:#000000"
+           id="polygon7389"
+           points="123.69,108.057 123.69,108.057 114.048,103.666 124.324,101.086 " />
+      </g>
+      <!-- 5&#45;&gt;6 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="edge"
+         id="edge8">
+        <title
+           id="title7392">5-&gt;6</title>
+        <path
+           style="fill:none;stroke:#000000"
+           id="path7394"
+           d="m 310.604,89.3963 c 6.231,-6.2313 14.272,-14.2727 21.464,-21.4641" />
+        <polygon
+           style="fill:#000000;stroke:#000000"
+           id="polygon7396"
+           points="329.866,65.1846 329.866,65.1846 339.412,60.5884 334.815,70.1344 " />
+      </g>
+      <!-- 6&#45;&gt;7 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="edge"
+         id="edge9">
+        <title
+           id="title7399">6-&gt;7</title>
+        <path
+           style="fill:none;stroke:#000000"
+           id="path7401"
+           d="m 354.614,36.1572 c 8.558,-25.6734 26.977,-80.9301 37.531,-112.5918" />
+        <polygon
+           style="fill:#000000;stroke:#000000"
+           id="polygon7403"
+           points="388.914,-77.8107 388.914,-77.8107 395.397,-86.1907 395.555,-75.597 " />
+      </g>
+      <!-- 7&#45;&gt;0 -->
+      <!-- 7&#45;&gt;3 -->
+      <g
+         transform="matrix(0.83780577,0,0,0.83780577,-5.5619105,19.753905)"
+         class="edge"
+         id="edge16">
+        <title
+           id="title7413">7-&gt;3</title>
+        <path
+           style="fill:none;stroke:#000000"
+           id="path7415"
+           d="m 385.936,-96.3326 c -33.709,3.7735 -119.445,4.0826 -161.677,0.9272" />
+        <polygon
+           style="fill:#000000;stroke:#000000"
+           id="polygon7417"
+           points="223.69,-91.9427 223.69,-91.9427 214.048,-96.3343 224.324,-98.9139 " />
+      </g>
+      <path
+         id="path10853"
+         d="M 325.38809,-76.369608 C 99.018999,-131.36022 44.028398,-34.726244 44.028398,-34.726244"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.95999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-6.0941868"
+         y="35.024605"
+         id="text5123"><tspan
+           id="tspan5125"
+           x="-6.0941868"
+           y="35.024605" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-3.2370396"
+         y="19.596041"
+         id="text5127"><tspan
+           id="tspan5129"
+           x="-3.2370396"
+           y="19.596041" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-3.8084691"
+         y="23.024607"
+         id="text5131"><tspan
+           id="tspan5133"
+           x="-3.8084691"
+           y="23.024607" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
+         x="-10.104873"
+         y="24.372696"
+         id="text5296"><tspan
+           id="tspan4529">A</tspan><tspan
+           id="tspan4531" /></text>
+    </g>
+  </g>
+</svg>
