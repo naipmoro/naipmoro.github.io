@@ -8,22 +8,27 @@ have demonstrated six-node modulators, and the question arises whether that is
 the theoretical minimum.  It turns out that five-node modulators do exist.
 <!--more-->
 
-The following _reentry diagram_ depicts a logic circuit where each node is a
+______________________________________________________________________________
+<br>
+### A five-node modulator
+
+The following _reentry graph_ depicts a logic circuit where each node is a
 NOR gate.
 
 ![five-node]({{ "/assets/svg/fivenode.svg" | absolute_url }})  
 Figure 1. A five-node modulator
 
 <br>
-Input **_A_** is a wave of alternating 1s and 0s (true and false values under
-the usual interpretation).  The output appears at node $\mathbf{m_3}$ as a doubling
-of the input's wavelength (or halving of its frequency), hence the "modulator"
-designation.  For example, an input of 1010... will produce outputs such as
-11001100... or 10011001..., depending on the phase shift.
+Input $A$ is a wave of alternating $1$s and $0$s (true and false values under
+the usual interpretation).  The output appears at node $\mathbf{m_3}$ as a
+doubling of the input's wavelength (or halving of its frequency), hence the
+"modulator" designation.  For example, an input of $1010\ldots$ will produce
+outputs such as $11001100\ldots \text{ or  }\,01100110\ldots$, depending on the
+phase shift.
 
 ### Evaluating the modulator
 
-In a reentry diagram, the nodes are given a specific order and
+In a reentry graph, the nodes are given a specific order and
 node values are propagated in sequence from earlier to later nodes,
 beginning with $\mathbf{m_0}$.  Where a node's value depends on nodes that are later
 in the sequence, we interpret that as requiring the _previous_ values of those
@@ -51,7 +56,7 @@ $$
 \end{array}
 $$
 
-The next example shows an input of 111000..., where $\mathbf t_{13}$ is a repeat
+The next example shows an input of $111000\ldots$, where $\mathbf t_{13}$ is a repeat
 of $\mathbf t_1$ (a valid repeat must occur at the _same point of the input
 wave's cycle_).
 
@@ -105,7 +110,7 @@ $$
 
 Columns $\mathbf{t_2} \ldots \mathbf{t_5}$ repeat indefinitely, i.e., column
 $\mathbf{t_1}$ can be considered part of the _initialization phase_ but not
-part of the circuit's repetition.  Whether initialization phase periods exist
+part of the circuit's repetition.  Whether initialization periods exist
 for a modulator is entirely a function of the intial values and the input wave.
 
 ### Kauffman's six-node modulator
