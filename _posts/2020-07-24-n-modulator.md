@@ -3,7 +3,7 @@ layout: post
 title: "The n-modulator"
 date: 2020-07-24
 ---
-A brief overview of the _n_-modulator, a generaliztion of Spencer-Brown's
+A brief overview of the _n_-modulator, a generalization of Spencer-Brown's
 original modulator circuit.
 <!--more--> $\newcommand{\stm}[1]{\small{#1}}$
 
