@@ -79,7 +79,7 @@ $A$ called the _input wave_.
   - The $n$ vertices $m_{2(n+0)+1}, m_{2(n+1)+1},\ldots, m_{2(2n-1)+1}$
       are the _init nodes_.  Significantly, they are also the _modulating
       nodes_.
-  - For each input node $m_k$, $\,A\rightarrow m_k$ and
+  - For each input node $m_k$, $A\rightarrow m_k$ and
       $m_k \rightarrow m_{k+2}$. The $m_{k+2}$ are called _skip nodes_.
       Note that the input wave $A$ is injected simultaneously into the $n$
       input nodes.
