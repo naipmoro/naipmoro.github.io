@@ -135,17 +135,17 @@ $$
 
 <br>
 To make this concrete, let's briefly run the 2-modulator through the first
-tick of the clock.  Assume the input wave $\mathbf A$ is $1010\ldots$
-(therefore $\mathbf A(1) = 1$) and let us assign $1$ as the initial value of
-the init nodes $\mathbf m_5(0)$ and $\mathbf m_7(0)$. Then,
+tick of the clock.  Assume the input wave $\boldsymbol A$ is $1010\ldots$
+(therefore $\boldsymbol A(1) = 1$) and let us assign $1$ as the initial value
+of the init nodes $\mathbf m_5(0)$ and $\mathbf m_7(0)$. Then,
 
 $$
 \begin{alignat*}{3}
-\mathbf m_0(1)  \,&=\, \text{nor}(\mathbf A(1), \mathbf m_7(0))    \,&=\, \text{nor}(1, 1) \,&=\, 0 \\
+\mathbf m_0(1)  \,&=\, \text{nor}(\boldsymbol A(1), \mathbf m_7(0))    \,&=\, \text{nor}(1, 1) \,&=\, 0 \\
 \mathbf m_1(1)  \,&=\, \text{nor}(\mathbf m_0(1), \mathbf m_5(0))  \,&=\, \text{nor}(0, 1) \,&=\, 0 \\
 \mathbf m_2(1)  \,&=\, \text{nor}(\mathbf m_0(1), \mathbf m_1(1))  \,&=\, \text{nor}(0, 0) \,&=\, 1 \\
 \mathbf m_3(1)  \,&=\, \text{nor}(\mathbf m_2(1), \mathbf m_7(0))  \,&=\, \text{nor}(1, 1) \,&=\, 0 \\
-\mathbf m_4(1)  \,&=\, \text{nor}(\mathbf A(1), \mathbf m_3(1))    \,&=\, \text{nor}(1, 0) \,&=\, 0 \\
+\mathbf m_4(1)  \,&=\, \text{nor}(\boldsymbol A(1), \mathbf m_3(1))    \,&=\, \text{nor}(1, 0) \,&=\, 0 \\
 \mathbf m_5(1)  \,&=\, \text{nor}(\mathbf m_1(1), \mathbf m_4(1))  \,&=\, \text{nor}(0, 0) \,&=\, 1 \\
 \mathbf m_6(1)  \,&=\, \text{nor}(\mathbf m_4(1), \mathbf m_5(1))  \,&=\, \text{nor}(0, 1) \,&=\, 0 \\
 \mathbf m_7(1)  \,&=\, \text{nor}(\mathbf m_3(1), \mathbf m_6(1))  \,&=\, \text{nor}(0, 0) \,&=\, 1.
@@ -154,7 +154,7 @@ $$
 
 If we continue computing values for subsequent time units, we would see
 $\mathbf m_5$ emit $1001\ldots$ and $\mathbf m_7$ emit
-$1100\ldots$, both double the wavelength of $\mathbf A$ (with $\mathbf
+$1100\ldots$, both double the wavelength of $\boldsymbol A$ (with $\mathbf
 m_5$ being an out-of-phase version).  The reader may verify that an assignment
 of initial $\mathbf t_0$ values to other than the init nodes would have no
 effect on the computations.
@@ -167,7 +167,7 @@ $$
 & \mathbf{t_{2}} & \mathbf{t_{3}} & \mathbf{t_{4}} & \mathbf{t_{5}}\\
 \hline
 \hline
-\stm{\mathbf{A}} & \mathrm{-} &  & 1 & 0 & 1 & 0 & 1\\
+\stm{\boldsymbol{A}} & \mathrm{-} &  & 1 & 0 & 1 & 0 & 1\\
 \hline
 \stm{\mathbf{m_0}} & \stm{(\mathrm{A}, \mathrm{m_7})}   &   & 0 & 0 & 0 & 1 & 0\\
 \stm{\mathbf{m_1}} & \stm{(\mathrm{0}, \mathrm{m_5})}   &   & 0 & 0 & 1 & 0 & 0\\
