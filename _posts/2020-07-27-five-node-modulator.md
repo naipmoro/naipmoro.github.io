@@ -151,7 +151,7 @@ the proper modulation.
 A significant property of all modulators is _robustness_: modulation will occur
 for _any_ set of intial values and whatever the phase of the input wave.
 
-(_Note:_ This page is a modified excerpt from a work in progress [3])
+(_Note:_ This page is a modified excerpt from a work in progress [3].)
 
 ### References
 1. G. Spencer-Brown. _Laws of Form_. George Allen and Unwin Ltd, London, 1969.
