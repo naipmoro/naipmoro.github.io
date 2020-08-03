@@ -148,8 +148,8 @@ wave.  That, however, is a spurious result peculiar to these particular initial
 values and input wave.  In general, only $\mathbf{m_4}$ consistently produces
 the proper modulation.
 
-A significant property of all modulators is _robustness_: modulation will occur
-for _any_ set of intial values and whatever the phase of the input wave.
+A significant property of these modulators is _robustness_: modulation will
+occur for _any_ set of intial values and whatever the phase of the input wave.
 
 (_Note:_ This page is a modified excerpt from a work in progress [3].)
 
