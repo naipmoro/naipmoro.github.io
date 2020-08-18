@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -7,62 +9,26 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="723.59955"
+   width="724.35876"
    height="265.85599"
-   viewBox="0 0 578.87965 212.55717"
-   id="svg4212"
+   viewBox="0 0 724.35879 265.856"
+   id="svg3602"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="sbii4Z2.gv.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1252"
-     inkscape:window-height="674"
-     id="namedview7244"
-     showgrid="false"
-     inkscape:zoom="1.1824228"
-     inkscape:cx="409.57937"
-     inkscape:cy="91.548571"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="graph0"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
-  <metadata
-     id="metadata4342">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   sodipodi:docname="fivenode.svg">
   <defs
-     id="defs4340">
+     id="defs3604">
     <marker
-       style="overflow:visible"
-       id="marker4528"
-       refX="0"
+       orient="auto"
        refY="0"
-       orient="auto">
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
       <path
-         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         id="path4252"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         id="path4293"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
          inkscape:connector-curvature="0" />
     </marker>
     <marker
@@ -80,7 +46,7 @@
     </marker>
     <marker
        style="overflow:visible"
-       id="marker4757"
+       id="marker4528"
        refX="0"
        refY="0"
        orient="auto">
@@ -88,431 +54,433 @@
          transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         id="path4759"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow2Lend"
-       style="overflow:visible">
-      <path
-         id="path4252"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="TriangleOutL"
-       style="overflow:visible">
-      <path
-         id="path4373"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(0.8,0.8)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend"
-       style="overflow:visible">
-      <path
-         id="path4234"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         id="path4293"
          inkscape:connector-curvature="0" />
     </marker>
   </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="93.45858"
+     inkscape:cy="173.74809"
+     inkscape:document-units="px"
+     inkscape:current-layer="graph0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata3607">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <g
-     id="graph0"
-     class="graph"
-     transform="translate(296.9426,23.601644)">
-    <title
-       id="title4215">modulator1</title>
-    <polygon
-       points="-202,177.885 -202,-22 202,-22 202,177.885 -202,177.885 "
-       id="polygon4217"
-       transform="matrix(1,0,0,1.0640358,3.1021092,-0.87306395)"
-       style="fill:#ffffff;stroke:none" />
-    <!-- 0 -->
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-7.2113588,-216.57707)">
     <g
-       id="node1"
-       class="node"
-       style="stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="translate(3.3828848,-0.67657696)">
+       id="graph0"
+       class="graph"
+       transform="matrix(1.2618514,0,0,1.25,378.81752,246.92938)">
       <title
-         id="title4220">0</title>
-      <circle
-         cx="-180"
-         cy="-2.1316301e-14"
-         id="ellipse4222"
-         r="18"
-         style="fill:none;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none" />
+         id="title4215">modulator1</title>
+      <polygon
+         points="202,177.885 -202,177.885 -202,177.885 -202,-22 202,-22 "
+         id="polygon4217"
+         transform="matrix(1.420902,0,0,1.0640358,-7.4706033,-0.87306395)"
+         style="fill:#ffffff;stroke:none" />
+      <!-- 0 -->
+      <g
+         id="node1"
+         class="node"
+         style="stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(3.3828848,-0.67657696)">
+        <title
+           id="title4220">0</title>
+        <circle
+           cx="-180"
+           cy="-2.1316301e-14"
+           id="ellipse4222"
+           r="18"
+           style="fill:none;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           x="-180"
+           y="3.7"
+           font-size="14.00"
+           id="text4224"
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif"
+             id="tspan8840">m0</tspan>
+        </text>
+      </g>
+      <!-- 1 -->
+      <g
+         id="node2"
+         class="node"
+         style="stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(3.3828848,-0.67657696)">
+        <title
+           id="title4227">1</title>
+        <circle
+           cx="-180"
+           cy="155.88499"
+           id="ellipse4229"
+           r="18"
+           style="fill:none;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           x="-180"
+           y="159.58501"
+           font-size="14.00"
+           id="text4231"
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif"
+             id="tspan8842">m1</tspan>
+        </text>
+      </g>
+      <!-- 0&#45;&gt;1 -->
+      <g
+         id="edge2"
+         class="edge"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(3.3828848,-0.67657696)">
+        <title
+           id="title4234">0-&gt;1</title>
+        <path
+           d="m -175.537,17.5789 c 2.734,26.8982 3.017,78.5097 0.848,110.5141"
+           id="path4236"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0" />
+        <polygon
+           points="-171.207,128.453 -171.207,128.453 -175.519,138.131 -178.183,127.876 "
+           id="polygon4238"
+           style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+      <!-- 4 -->
+      <g
+         style="stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none"
+         id="node3"
+         class="node"
+         transform="translate(3.3828848,-0.67657696)">
+        <title
+           id="title4241">4</title>
+        <circle
+           cx="0"
+           cy="0"
+           id="ellipse4243"
+           r="18"
+           style="fill:none;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           x="0"
+           y="3.7"
+           font-size="14.00"
+           id="text4245"
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif"
+             id="tspan8846">m4</tspan>
+        </text>
+      </g>
+      <!-- 0&#45;&gt;4 -->
+      <g
+         id="edge7"
+         class="edge"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(3.3828848,-0.67657696)">
+        <title
+           id="title4248">0-&gt;4</title>
+        <path
+           d="m -162.413,-4.21123 c 31.32,-3.07878 96.9867,-3.35732 134.5217,-0.83563"
+           id="path4250"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0" />
+        <polygon
+           points="-27.3431,-8.51402 -27.3431,-8.51402 -17.6583,-4.21824 -27.9082,-1.53686 "
+           id="polygon4252"
+           style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+      <!-- 2 -->
+      <g
+         style="stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none"
+         id="node4"
+         class="node"
+         transform="translate(3.3828848,-0.67657696)">
+        <title
+           id="title4255">2</title>
+        <circle
+           cx="0"
+           cy="155.88499"
+           id="ellipse4257"
+           r="18"
+           style="fill:none;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           x="0"
+           y="159.58501"
+           font-size="14.00"
+           id="text4259"
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif"
+             id="tspan8844">m2</tspan>
+        </text>
+      </g>
+      <!-- 0&#45;&gt;2 -->
+      <g
+         id="edge8"
+         class="edge"
+         transform="translate(3.3828848,-0.67657696)">
+        <title
+           id="title4262">0-&gt;2</title>
+        <path
+           d="m -166.175,11.9732 c 31.226,27.0425 107.3903,93.0028 144.7696,125.3738"
+           id="path4264"
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0" />
+        <polygon
+           points="-18.8941,134.892 -18.8941,134.892 -13.6261,144.084 -23.4767,140.183 "
+           id="polygon4266"
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <!-- 1&#45;&gt;0 -->
+      <g
+         id="edge6"
+         class="edge"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(3.3828848,-0.67657696)">
+        <title
+           id="title4269">1-&gt;0</title>
+        <path
+           d="m -184.463,138.306 c -2.734,-26.899 -3.017,-78.51 -0.848,-110.5142"
+           id="path4271"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0" />
+        <polygon
+           points="-188.793,27.4316 -188.793,27.4316 -184.481,17.7539 -181.817,28.0082 "
+           id="polygon4273"
+           style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+      <!-- 1&#45;&gt;4 -->
+      <g
+         id="edge11"
+         class="edge"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(3.3828848,-0.67657696)">
+        <title
+           id="title4276">1-&gt;4</title>
+        <path
+           d="M -166.175,143.911 C -134.949,116.869 -58.7847,50.9091 -21.4054,18.5376"
+           id="path4278"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0" />
+        <polygon
+           points="-23.4767,15.7014 -23.4767,15.7014 -13.6261,11.8006 -18.8941,20.9929 "
+           id="polygon4280"
+           style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+      <!-- 1&#45;&gt;2 -->
+      <g
+         id="edge3"
+         class="edge"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(3.3828848,-0.67657696)">
+        <title
+           id="title4283">1-&gt;2</title>
+        <path
+           d="m -162.413,151.673 c 31.32,-3.078 96.9867,-3.357 134.5217,-0.835"
+           id="path4285"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0" />
+        <polygon
+           points="-27.3431,147.371 -27.3431,147.371 -17.6583,151.666 -27.9082,154.348 "
+           id="polygon4287"
+           style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+      <!-- 3 -->
+      <g
+         id="node5"
+         class="node"
+         style="stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(3.3828848,-0.67657696)">
+        <title
+           id="title4290">3</title>
+        <circle
+           cx="180"
+           cy="155.88499"
+           id="ellipse4292"
+           r="18"
+           style="fill:none;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+        <text
+           x="180"
+           y="159.58501"
+           font-size="14.00"
+           id="text4294"
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif"
+             id="tspan8848">m3</tspan>
+        </text>
+      </g>
+      <!-- 1&#45;&gt;3 -->
+      <!-- 4&#45;&gt;0 -->
+      <g
+         id="edge1"
+         class="edge"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(3.3828848,-0.67657696)">
+        <title
+           id="title4304">4-&gt;0</title>
+        <path
+           d="M -17.5869,4.21123 C -48.907,7.29001 -114.574,7.56855 -152.109,5.04686"
+           id="path4306"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0" />
+        <polygon
+           points="-152.657,8.51402 -152.657,8.51402 -162.342,4.21824 -152.092,1.53686 "
+           id="polygon4308"
+           style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+      <!-- 2&#45;&gt;1 -->
+      <g
+         id="edge9"
+         class="edge"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(3.3828848,-0.67657696)">
+        <title
+           id="title4311">2-&gt;1</title>
+        <path
+           d="m -17.5869,160.096 c -31.3201,3.079 -96.9871,3.357 -134.5221,0.835"
+           id="path4313"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0" />
+        <polygon
+           points="-152.657,164.399 -152.657,164.399 -162.342,160.103 -152.092,157.421 "
+           id="polygon4315"
+           style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+      <!-- 2&#45;&gt;4 -->
+      <g
+         id="edge12"
+         class="edge"
+         transform="translate(3.3828848,-0.67657696)">
+        <title
+           id="title4318">2-&gt;4</title>
+        <path
+           d="M 0,137.698 C 0,110.828 0,60.2809 0,28.4715"
+           id="path4320"
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0" />
+        <polygon
+           points="-3.4999,28.0712 -3.4999,28.0712 0,18.0712 3.5001,28.0712 "
+           id="polygon4322"
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <!-- 2&#45;&gt;3 -->
+      <g
+         id="edge4"
+         class="edge"
+         transform="translate(3.3828848,-0.67657696)">
+        <title
+           id="title4325">2-&gt;3</title>
+        <path
+           d="m 17.5869,151.673 c 31.3201,-3.078 96.9871,-3.357 134.5221,-0.835"
+           id="path4327"
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0" />
+        <polygon
+           points="152.657,147.371 152.657,147.371 162.342,151.666 152.092,154.348 "
+           id="polygon4329"
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <!-- 3&#45;&gt;2 -->
+      <g
+         id="edge5"
+         class="edge"
+         transform="translate(3.3828848,-0.67657696)">
+        <title
+           id="title4332">3-&gt;2</title>
+        <path
+           d="m 162.413,160.096 c -31.32,3.079 -96.9867,3.357 -134.5217,0.835"
+           id="path4334"
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0" />
+        <polygon
+           points="27.3431,164.399 27.3431,164.399 17.6583,160.103 27.9082,157.421 "
+           id="polygon4336"
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -166.78876,170.40878 c 17.88947,7.53743 39.02824,6.64961 58.66556,8.92313 37.590605,2.67365 75.337589,3.72371 113.0620331,4.55401"
+         id="path5281"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 170.83882,169.72477 C 117.51081,184.04094 60.188811,181.41908 4.7121346,183.8838"
+         id="path5283"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 160.13624,168.45134 1.3557,0.16947 c 0,0 0,0 9.6594,0.33892 -7.28692,7.11745 -7.28692,7.11745 -7.28692,7.11745 l 0,0 c -3.89765,-7.45638 -3.72818,-7.62584 -3.72818,-7.62584 z"
+         id="path5357"
+         inkscape:connector-curvature="0" />
       <text
-         x="-180"
-         y="3.7"
-         font-size="14.00"
-         id="text4224"
-         style="font-size:14px;font-family:Times, serif;text-anchor:middle;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none">
-        <tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif"
-           id="tspan8840">m0</tspan>
-      </text>
-    </g>
-    <!-- 1 -->
-    <g
-       id="node2"
-       class="node"
-       style="stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="translate(3.3828848,-0.67657696)">
-      <title
-         id="title4227">1</title>
-      <circle
-         cx="-180"
-         cy="155.88499"
-         id="ellipse4229"
-         r="18"
-         style="fill:none;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none" />
-      <text
-         x="-180"
-         y="159.58501"
-         font-size="14.00"
-         id="text4231"
-         style="font-size:14px;font-family:Times, serif;text-anchor:middle;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none">
-        <tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif"
-           id="tspan8842">m1</tspan>
-      </text>
-    </g>
-    <!-- 0&#45;&gt;1 -->
-    <g
-       id="edge2"
-       class="edge"
-       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="translate(3.3828848,-0.67657696)">
-      <title
-         id="title4234">0-&gt;1</title>
-      <path
-         d="m -175.537,17.5789 c 2.734,26.8982 3.017,78.5097 0.848,110.5141"
-         id="path4236"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-         inkscape:connector-curvature="0" />
-      <polygon
-         points="-171.207,128.453 -171.207,128.453 -175.519,138.131 -178.183,127.876 "
-         id="polygon4238"
-         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
-    </g>
-    <!-- 4 -->
-    <g
-       style="stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none"
-       id="node3"
-       class="node"
-       transform="translate(3.3828848,-0.67657696)">
-      <title
-         id="title4241">4</title>
-      <circle
-         cx="0"
-         cy="0"
-         id="ellipse4243"
-         r="18"
-         style="fill:none;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none" />
-      <text
-         x="0"
-         y="3.7"
-         font-size="14.00"
-         id="text4245"
-         style="font-size:14px;font-family:Times, serif;text-anchor:middle;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none">
-        <tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif"
-           id="tspan8846">m4</tspan>
-      </text>
-    </g>
-    <!-- 0&#45;&gt;4 -->
-    <g
-       id="edge7"
-       class="edge"
-       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="translate(3.3828848,-0.67657696)">
-      <title
-         id="title4248">0-&gt;4</title>
-      <path
-         d="m -162.413,-4.21123 c 31.32,-3.07878 96.9867,-3.35732 134.5217,-0.83563"
-         id="path4250"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-         inkscape:connector-curvature="0" />
-      <polygon
-         points="-27.3431,-8.51402 -27.3431,-8.51402 -17.6583,-4.21824 -27.9082,-1.53686 "
-         id="polygon4252"
-         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
-    </g>
-    <!-- 2 -->
-    <g
-       style="stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none"
-       id="node4"
-       class="node"
-       transform="translate(3.3828848,-0.67657696)">
-      <title
-         id="title4255">2</title>
-      <circle
-         cx="0"
-         cy="155.88499"
-         id="ellipse4257"
-         r="18"
-         style="fill:none;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none" />
-      <text
-         x="0"
-         y="159.58501"
-         font-size="14.00"
-         id="text4259"
-         style="font-size:14px;font-family:Times, serif;text-anchor:middle;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none">
-        <tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif"
-           id="tspan8844">m2</tspan>
-      </text>
-    </g>
-    <!-- 0&#45;&gt;2 -->
-    <g
-       id="edge8"
-       class="edge"
-       transform="translate(3.3828848,-0.67657696)">
-      <title
-         id="title4262">0-&gt;2</title>
-      <path
-         d="m -166.175,11.9732 c 31.226,27.0425 107.3903,93.0028 144.7696,125.3738"
-         id="path4264"
-         style="fill:none;stroke:#000000"
-         inkscape:connector-curvature="0" />
-      <polygon
-         points="-18.8941,134.892 -18.8941,134.892 -13.6261,144.084 -23.4767,140.183 "
-         id="polygon4266"
-         style="fill:#000000;stroke:#000000" />
-    </g>
-    <!-- 1&#45;&gt;0 -->
-    <g
-       id="edge6"
-       class="edge"
-       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="translate(3.3828848,-0.67657696)">
-      <title
-         id="title4269">1-&gt;0</title>
-      <path
-         d="m -184.463,138.306 c -2.734,-26.899 -3.017,-78.51 -0.848,-110.5142"
-         id="path4271"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-         inkscape:connector-curvature="0" />
-      <polygon
-         points="-188.793,27.4316 -188.793,27.4316 -184.481,17.7539 -181.817,28.0082 "
-         id="polygon4273"
-         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
-    </g>
-    <!-- 1&#45;&gt;4 -->
-    <g
-       id="edge11"
-       class="edge"
-       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="translate(3.3828848,-0.67657696)">
-      <title
-         id="title4276">1-&gt;4</title>
-      <path
-         d="M -166.175,143.911 C -134.949,116.869 -58.7847,50.9091 -21.4054,18.5376"
-         id="path4278"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-         inkscape:connector-curvature="0" />
-      <polygon
-         points="-23.4767,15.7014 -23.4767,15.7014 -13.6261,11.8006 -18.8941,20.9929 "
-         id="polygon4280"
-         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
-    </g>
-    <!-- 1&#45;&gt;2 -->
-    <g
-       id="edge3"
-       class="edge"
-       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="translate(3.3828848,-0.67657696)">
-      <title
-         id="title4283">1-&gt;2</title>
-      <path
-         d="m -162.413,151.673 c 31.32,-3.078 96.9867,-3.357 134.5217,-0.835"
-         id="path4285"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-         inkscape:connector-curvature="0" />
-      <polygon
-         points="-27.3431,147.371 -27.3431,147.371 -17.6583,151.666 -27.9082,154.348 "
-         id="polygon4287"
-         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
-    </g>
-    <!-- 3 -->
-    <g
-       id="node5"
-       class="node"
-       style="stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="translate(3.3828848,-0.67657696)">
-      <title
-         id="title4290">3</title>
-      <circle
-         cx="180"
-         cy="155.88499"
-         id="ellipse4292"
-         r="18"
-         style="fill:none;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         x="180"
-         y="159.58501"
-         font-size="14.00"
-         id="text4294"
-         style="font-size:14px;font-family:Times, serif;text-anchor:middle;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none">
-        <tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif"
-           id="tspan8848">m3</tspan>
-      </text>
-    </g>
-    <!-- 1&#45;&gt;3 -->
-    <!-- 4&#45;&gt;0 -->
-    <g
-       id="edge1"
-       class="edge"
-       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="translate(3.3828848,-0.67657696)">
-      <title
-         id="title4304">4-&gt;0</title>
-      <path
-         d="M -17.5869,4.21123 C -48.907,7.29001 -114.574,7.56855 -152.109,5.04686"
-         id="path4306"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-         inkscape:connector-curvature="0" />
-      <polygon
-         points="-152.657,8.51402 -152.657,8.51402 -162.342,4.21824 -152.092,1.53686 "
-         id="polygon4308"
-         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
-    </g>
-    <!-- 2&#45;&gt;1 -->
-    <g
-       id="edge9"
-       class="edge"
-       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="translate(3.3828848,-0.67657696)">
-      <title
-         id="title4311">2-&gt;1</title>
-      <path
-         d="m -17.5869,160.096 c -31.3201,3.079 -96.9871,3.357 -134.5221,0.835"
-         id="path4313"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-         inkscape:connector-curvature="0" />
-      <polygon
-         points="-152.657,164.399 -152.657,164.399 -162.342,160.103 -152.092,157.421 "
-         id="polygon4315"
-         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
-    </g>
-    <!-- 2&#45;&gt;4 -->
-    <g
-       id="edge12"
-       class="edge"
-       transform="translate(3.3828848,-0.67657696)">
-      <title
-         id="title4318">2-&gt;4</title>
-      <path
-         d="M 0,137.698 C 0,110.828 0,60.2809 0,28.4715"
-         id="path4320"
-         style="fill:none;stroke:#000000"
-         inkscape:connector-curvature="0" />
-      <polygon
-         points="-3.4999,28.0712 -3.4999,28.0712 0,18.0712 3.5001,28.0712 "
-         id="polygon4322"
-         style="fill:#000000;stroke:#000000" />
-    </g>
-    <!-- 2&#45;&gt;3 -->
-    <g
-       id="edge4"
-       class="edge"
-       transform="translate(3.3828848,-0.67657696)">
-      <title
-         id="title4325">2-&gt;3</title>
-      <path
-         d="m 17.5869,151.673 c 31.3201,-3.078 96.9871,-3.357 134.5221,-0.835"
-         id="path4327"
-         style="fill:none;stroke:#000000"
-         inkscape:connector-curvature="0" />
-      <polygon
-         points="152.657,147.371 152.657,147.371 162.342,151.666 152.092,154.348 "
-         id="polygon4329"
-         style="fill:#000000;stroke:#000000" />
-    </g>
-    <!-- 3&#45;&gt;2 -->
-    <g
-       id="edge5"
-       class="edge"
-       transform="translate(3.3828848,-0.67657696)">
-      <title
-         id="title4332">3-&gt;2</title>
-      <path
-         d="m 162.413,160.096 c -31.32,3.079 -96.9867,3.357 -134.5217,0.835"
-         id="path4334"
-         style="fill:none;stroke:#000000"
-         inkscape:connector-curvature="0" />
-      <polygon
-         points="27.3431,164.399 27.3431,164.399 17.6583,160.103 27.9082,157.421 "
-         id="polygon4336"
-         style="fill:#000000;stroke:#000000" />
-    </g>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -166.78876,170.40878 c 17.88947,7.53743 39.02824,6.64961 58.66556,8.92313 37.590605,2.67365 75.337589,3.72371 113.0620331,4.55401"
-       id="path5281"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 170.83882,169.72477 C 117.51081,184.04094 60.188811,181.41908 4.7121346,183.8838"
-       id="path5283"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 160.13624,168.45134 1.3557,0.16947 c 0,0 0,0 9.6594,0.33892 -7.28692,7.11745 -7.28692,7.11745 -7.28692,7.11745 l 0,0 c -3.89765,-7.45638 -3.72818,-7.62584 -3.72818,-7.62584 z"
-       id="path5357"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-293.46597"
-       y="84.260666"
-       id="text4221"
-       sodipodi:linespacing="125%"><tspan
-         id="tspan4223"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="-293.46597"
          y="84.260666"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif">A</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
-       d="M -280.32487,70.182591 -193.56905,8.8510294"
-       id="path4225"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5072)"
-       d="m -280.60425,86.031669 87.80702,57.634211"
-       id="path4889"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path3436"
-       d="m 201.63856,155.94262 c 34.5515,0 34.5515,0 34.5515,0"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.0317086;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4528)"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="240.17932"
-       y="162.19621"
-       id="text4221-4"
-       sodipodi:linespacing="125%"><tspan
-         id="tspan4223-6"
+         id="text4221"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4223"
+           x="-293.46597"
+           y="84.260666"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif">A</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+         d="M -280.32487,70.182591 -193.56905,8.8510294"
+         id="path4225"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5072)"
+         d="m -280.60425,86.031669 87.80702,57.634211"
+         id="path4889"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3436"
+         d="m 201.63856,155.94262 c 34.5515,0 34.5515,0 34.5515,0"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.0317086;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4528)"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="240.17932"
          y="162.19621"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif">OUT</tspan></text>
+         id="text4221-4"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4223-6"
+           x="240.17932"
+           y="162.19621"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif">OUT</tspan></text>
+    </g>
   </g>
 </svg>
