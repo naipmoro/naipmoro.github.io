@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Laws of Form in metamath"
+title: "Laws of Form in Metamath"
 date: 2016-12-20
 ---
 Metamath derivations of the primary algebra from G. Spencer-Brown's _Laws
