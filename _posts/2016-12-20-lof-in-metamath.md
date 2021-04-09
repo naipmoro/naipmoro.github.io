@@ -97,17 +97,17 @@ axioms.
 
 #### _Recursive definition of form_
 
-**void** &nbsp;&nbsp; Empty space is a form.
+  - **void** &nbsp;&nbsp; Empty space is a form.
 
-**encl** &nbsp;&nbsp; If _p_ is a form, enclosing it in parentheses&nbsp; _( p )_
+  - **encl** &nbsp;&nbsp; If _p_ is a form, enclosing it in parentheses&nbsp; _( p )_
          &nbsp;is a form.
 
-**juxt** &nbsp;&nbsp; If _p_ and _q_ are forms, juxtaposing them as
+  - **juxt** &nbsp;&nbsp; If _p_ and _q_ are forms, juxtaposing them as
          &nbsp;_p q_&nbsp; is a form.
 
 #### _Common notions_
 
-**ax-euc** &nbsp;&nbsp; Two things equal to the same thing are equal to each
+  - **ax-euc** &nbsp;&nbsp; Two things equal to the same thing are equal to each
     other. This is Euclid's first Common Notion and, in an equational logic,
     this and its sibling, transitivity, are the main engine of derivation.
     Formally,&nbsp; _p = q_ &nbsp;and&nbsp; _r = q_
@@ -120,16 +120,16 @@ Applying this to _LoF's_ two operations, enclosure and juxtaposition,
 leads to the next two axioms (looked at differently, these can also be
 seen as substitution/replacement rules).
 
-**ax-beq** &nbsp;&nbsp; Enclosing equal forms leaves equal forms. We can
+  - **ax-beq** &nbsp;&nbsp; Enclosing equal forms leaves equal forms. We can
     consider this a definition of boundary equality:
     &nbsp; _p = q_ &nbsp;implies&nbsp; _( p ) = ( q )_.
 
-**ax-sub** &nbsp;&nbsp; Juxtaposing the same form with equal forms leaves equal
+  - **ax-sub** &nbsp;&nbsp; Juxtaposing the same form with equal forms leaves equal
     forms: &nbsp; _p = q_ &nbsp;implies&nbsp; _p v = q v_.
 
 #### _Commutativity of LoF_
 
-**ax-cmm** &nbsp;&nbsp; _p q = q p_
+  - **ax-cmm** &nbsp;&nbsp; _p q = q p_
 
 -----------------------------------------------------------------------------------<br>
 
