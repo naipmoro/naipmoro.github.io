@@ -147,9 +147,9 @@ traditional formal system without additional axioms -- it is the ability
 to reference the empty (or _void_) form that allows it here. For the actual
 derivations, see the source file.
 
-**id** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | _p = p_
-**sym** &nbsp;&nbsp; | _p = q_ &nbsp;implies&nbsp; _q = p_
-**trans** &nbsp;&nbsp; | _p = q_ &nbsp;and&nbsp; _q = r_ &nbsp;implies&nbsp; _p = r_
+&nbsp;&nbsp; | **id** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | _p = p_
+&nbsp;&nbsp; | **sym** &nbsp;&nbsp; | _p = q_ &nbsp;implies&nbsp; _q = p_
+&nbsp;&nbsp; | **trans** &nbsp;&nbsp; | _p = q_ &nbsp;and&nbsp; _q = r_ &nbsp;implies&nbsp; _p = r_
 
 <br>
 The axioms and theorems so far have been transparent, succinct, and
@@ -162,19 +162,19 @@ utility is to ease the derivation of particular propositions.
 
 I state these below without further comment.
 
-**eucr** &nbsp;&nbsp; | _p = q_ &nbsp;and&nbsp; _p = r_ &nbsp;implies&nbsp; _q = r_
-**subr** &nbsp;&nbsp; | _p = q_ &nbsp;implies&nbsp; _u p  =  u q_
-**subst** &nbsp;&nbsp; | _p = q_ &nbsp;implies&nbsp; _u p v  =  u q v_
-**substr** &nbsp;&nbsp; | _p = q_ &nbsp;implies&nbsp; _u p v  =  v q u_
-**subb1** &nbsp;&nbsp; | _p = q_ &nbsp;implies&nbsp; _w ( u p v ) x  =  w ( u q v ) x_
-**subb3** &nbsp;&nbsp; | _p = q_ &nbsp;implies&nbsp; _w ( u p v ) x  =  w ( v q u ) x_
-**rep** &nbsp;&nbsp; | _p = q_ &nbsp;and&nbsp; _u p v  =  y_ &nbsp;implies&nbsp; _u q v  =  y_
-**repbx** &nbsp;&nbsp; | _p = q_ &nbsp;and&nbsp; _w ( u p v ) x  =  y_ &nbsp;implies&nbsp; _w ( u q v ) x  =  y_
-**quad** &nbsp;&nbsp; | _p = q_ &nbsp;and&nbsp; _r = s_ &nbsp;implies&nbsp; _p r  =  q s_
-**ins** &nbsp;&nbsp; | _p q  =  r s_ &nbsp;implies&nbsp; _p v q  =  r v s_
-**cmmx** &nbsp;&nbsp; | _u p v q w  =  u q v p w_
-**cmmbx** &nbsp;&nbsp; | _x ( u p v q w ) y  =  x ( u q v p w ) y_
-**quadbx** &nbsp;&nbsp; | _p = q_ &nbsp;and&nbsp; _r = s_ &nbsp;implies&nbsp; _x ( u p v r w ) y  =  x ( u q v s w ) y_
+&nbsp;&nbsp; | **eucr** &nbsp;&nbsp; | _p = q_ &nbsp;and&nbsp; _p = r_ &nbsp;implies&nbsp; _q = r_
+&nbsp;&nbsp; | **subr** &nbsp;&nbsp; | _p = q_ &nbsp;implies&nbsp; _u p  =  u q_
+&nbsp;&nbsp; | **subst** &nbsp;&nbsp; | _p = q_ &nbsp;implies&nbsp; _u p v  =  u q v_
+&nbsp;&nbsp; | **substr** &nbsp;&nbsp; | _p = q_ &nbsp;implies&nbsp; _u p v  =  v q u_
+&nbsp;&nbsp; | **subb1** &nbsp;&nbsp; | _p = q_ &nbsp;implies&nbsp; _w ( u p v ) x  =  w ( u q v ) x_
+&nbsp;&nbsp; | **subb3** &nbsp;&nbsp; | _p = q_ &nbsp;implies&nbsp; _w ( u p v ) x  =  w ( v q u ) x_
+&nbsp;&nbsp; | **rep** &nbsp;&nbsp; | _p = q_ &nbsp;and&nbsp; _u p v  =  y_ &nbsp;implies&nbsp; _u q v  =  y_
+&nbsp;&nbsp; | **repbx** &nbsp;&nbsp; | _p = q_ &nbsp;and&nbsp; _w ( u p v ) x  =  y_ &nbsp;implies&nbsp; _w ( u q v ) x  =  y_
+&nbsp;&nbsp; | **quad** &nbsp;&nbsp; | _p = q_ &nbsp;and&nbsp; _r = s_ &nbsp;implies&nbsp; _p r  =  q s_
+&nbsp;&nbsp; | **ins** &nbsp;&nbsp; | _p q  =  r s_ &nbsp;implies&nbsp; _p v q  =  r v s_
+&nbsp;&nbsp; | **cmmx** &nbsp;&nbsp; | _u p v q w  =  u q v p w_
+&nbsp;&nbsp; | **cmmbx** &nbsp;&nbsp; | _x ( u p v q w ) y  =  x ( u q v p w ) y_
+&nbsp;&nbsp; | **quadbx** &nbsp;&nbsp; | _p = q_ &nbsp;and&nbsp; _r = s_ &nbsp;implies&nbsp; _x ( u p v r w ) y  =  x ( u q v s w ) y_
 
 <br>
 It's hard to know where to stop with auxiliary theorems. Had we chosen
@@ -192,31 +192,31 @@ we could have reduced significantly the proof of theorem **c9.0**.
 _LoF_ can be considered a prolonged deduction from two initial 'arithmetic'
 equations [_LoF_, p. 12]:
 
-**I1. Number**   &nbsp;&nbsp; | _( )  ( )_ | &nbsp;=&nbsp; | _( )_
-**I2. Order**    &nbsp;&nbsp; | _( ( ) )_ | &nbsp;=&nbsp; |
+&nbsp;&nbsp; | **I1. Number**   &nbsp;&nbsp; | _( )  ( )_ | &nbsp;=&nbsp; | _( )_
+&nbsp;&nbsp; | **I2. Order**    &nbsp;&nbsp; | _( ( ) )_ | &nbsp;=&nbsp; |
 
 <br>
 As mentioned, one of the models of _LoF_ is sentential logic:
 
-| _T_             | &nbsp; &equiv; &nbsp; | _( )_ |
-| _F_             | &nbsp; &equiv; &nbsp; | |
-| _&not; p_       | &nbsp; &equiv; &nbsp; | _( p )_ |
-| _p &or; q_      | &nbsp; &equiv; &nbsp; | _p q_ |
-| _p &and; q_     | &nbsp; &equiv; &nbsp; | _( ( p ) ( q ) )_ |
-| _p -> q_        | &nbsp; &equiv; &nbsp; | _( p ) q_ |
-| _p &harr; q_    | &nbsp; &equiv; &nbsp; | _( ( p ) ( q ) ) ( p q )_ |
+&nbsp;&nbsp; | _T_             | &nbsp; &equiv; &nbsp; | _( )_ |
+&nbsp;&nbsp; | _F_             | &nbsp; &equiv; &nbsp; | |
+&nbsp;&nbsp; | _&not; p_       | &nbsp; &equiv; &nbsp; | _( p )_ |
+&nbsp;&nbsp; | _p &or; q_      | &nbsp; &equiv; &nbsp; | _p q_ |
+&nbsp;&nbsp; |  _p &and; q_     | &nbsp; &equiv; &nbsp; | _( ( p ) ( q ) )_ |
+&nbsp;&nbsp; |  _p -> q_        | &nbsp; &equiv; &nbsp; | _( p ) q_ |
+&nbsp;&nbsp; |  _p &harr; q_    | &nbsp; &equiv; &nbsp; | _( ( p ) ( q ) ) ( p q )_ |
 
 <br>
 The algebra is self-dual. If we interchange _T_ and _F_, the algebraic laws
 continue to hold, with juxtaposition now interpreted as conjunction:
 
-| _T_             | &nbsp; &equiv; &nbsp; | |
-| _F_             | &nbsp; &equiv; &nbsp; | _( )_ |
-| _&not; p_       | &nbsp; &equiv; &nbsp; | _( p )_ |
-| _p &or; q_      | &nbsp; &equiv; &nbsp; | _( ( p ) ( q ) )_ |
-| _p &and; q_     | &nbsp; &equiv; &nbsp; | _p q_ |
-| _p -> q_        | &nbsp; &equiv; &nbsp; | _( p ( q ) )_ |
-| _p &harr; q_    | &nbsp; &equiv; &nbsp; | _( ( ( p ) ( q ) ) ( p q ) )_ |
+&nbsp;&nbsp; | _T_             | &nbsp; &equiv; &nbsp; | |
+&nbsp;&nbsp; | _F_             | &nbsp; &equiv; &nbsp; | _( )_ |
+&nbsp;&nbsp; | _&not; p_       | &nbsp; &equiv; &nbsp; | _( p )_ |
+&nbsp;&nbsp; |  _p &or; q_      | &nbsp; &equiv; &nbsp; | _( ( p ) ( q ) )_ |
+&nbsp;&nbsp; | _p &and; q_     | &nbsp; &equiv; &nbsp; | _p q_ |
+&nbsp;&nbsp; | _p -> q_        | &nbsp; &equiv; &nbsp; | _( p ( q ) )_ |
+&nbsp;&nbsp; |  _p &harr; q_    | &nbsp; &equiv; &nbsp; | _( ( ( p ) ( q ) ) ( p q ) )_ |
 
 <br>
 In keeping with standard practice, I use the first interpretation
@@ -225,22 +225,22 @@ I call it the 'dual interpretation'.
 
 Spencer-Brown begins with the two axioms:
 
-**J1. Position**      &nbsp;&nbsp; | _( ( p ) p ) =_
-**J2. Transposition** &nbsp;&nbsp; | _( ( p r ) ( q r ) ) = ( ( p ) ( q ) ) r_
+&nbsp;&nbsp; | **J1. Position**      &nbsp;&nbsp; | _( ( p ) p ) =_
+&nbsp;&nbsp; | **J2. Transposition** &nbsp;&nbsp; | _( ( p r ) ( q r ) ) = ( ( p ) ( q ) ) r_
 
 <br>
 and deduces the following consequences [_LoF_, pp. 28-35]:
 
-**C1. Reflexion**         &nbsp;&nbsp; |      _( ( a ) ) = a_
-**C2. Generation**        &nbsp;&nbsp; |      _( a b ) b = ( a ) b_
-**C3. Integration**       &nbsp;&nbsp; |      _( ) a = ( )_
-**C4. Occultation**       &nbsp;&nbsp; |      _( ( a ) b ) a = a_
-**C5. Iteration**         &nbsp;&nbsp; |      _a a = a_
-**C6. Extension**         &nbsp;&nbsp; |      _( ( a ) ( b ) ) ( ( a ) b ) = a_
-**C7. Echelon**           &nbsp;&nbsp; |      _( ( ( a ) b ) c ) = ( a c ) ( ( b ) c )_
-**C8. Modified transposition** &nbsp;&nbsp; | _( ( a ) ( b r ) ( c r ) ) = ( ( a ) ( b ) ( c ) ) ( ( a ) ( r ) )_
-**C9. Crosstransposition** &nbsp;&nbsp; |     _( ( ( b ) ( r ) ) ( ( a ) ( r ) ) ( ( x ) r ) ( ( y ) r ) ) =_
-                                        |     _( ( r ) a b )  (r x y )_
+&nbsp;&nbsp; | **C1. Reflexion**         &nbsp;&nbsp; |      _( ( a ) ) = a_
+&nbsp;&nbsp; | **C2. Generation**        &nbsp;&nbsp; |      _( a b ) b = ( a ) b_
+&nbsp;&nbsp; | **C3. Integration**       &nbsp;&nbsp; |      _( ) a = ( )_
+&nbsp;&nbsp; | **C4. Occultation**       &nbsp;&nbsp; |      _( ( a ) b ) a = a_
+&nbsp;&nbsp; | **C5. Iteration**         &nbsp;&nbsp; |      _a a = a_
+&nbsp;&nbsp; | **C6. Extension**         &nbsp;&nbsp; |      _( ( a ) ( b ) ) ( ( a ) b ) = a_
+&nbsp;&nbsp; | **C7. Echelon**           &nbsp;&nbsp; |      _( ( ( a ) b ) c ) = ( a c ) ( ( b ) c )_
+&nbsp;&nbsp; | **C8. Modified transposition** &nbsp;&nbsp; | _( ( a ) ( b r ) ( c r ) ) = ( ( a ) ( b ) ( c ) ) ( ( a ) ( r ) )_
+&nbsp;&nbsp; | **C9. Crosstransposition** &nbsp;&nbsp; |     _( ( ( b ) ( r ) ) ( ( a ) ( r ) ) ( ( x ) r ) ( ( y ) r ) ) =_
+             |                                         |     _( ( r ) a b )  (r x y )_
 
 <br>
 To see that **J1** and **J2** constitute a complete set of axioms, refer to
@@ -267,8 +267,8 @@ expressed by metamath.
 
 First the axioms, i.e., Basis<sub>0</sub>:
 
-**j1.0**  &nbsp;&nbsp; | _( ( p ) p ) =_
-**j2.0**  &nbsp;&nbsp; | _( ( p r ) ( q r ) ) = ( ( p ) ( q ) ) r_
+&nbsp;&nbsp; | **j1.0**  &nbsp;&nbsp; | _( ( p ) p ) =_
+&nbsp;&nbsp; | **j2.0**  &nbsp;&nbsp; | _( ( p r ) ( q r ) ) = ( ( p ) ( q ) ) r_
 
 <br>
 Proof of **c5.0**
@@ -297,15 +297,15 @@ proved, since that establishes **c5.1** and **c6.1** as a complete basis.
 
 #### Basis<sub>1</sub>
 
-**c5.1** &nbsp;&nbsp; | _p p = p_
-**c6.1** &nbsp;&nbsp; | _( ( p ) ( q ) ) ( ( p ) q ) = p_
+&nbsp;&nbsp; | **c5.1** &nbsp;&nbsp; | _p p = p_
+&nbsp;&nbsp; | **c6.1** &nbsp;&nbsp; | _( ( p ) ( q ) ) ( ( p ) q ) = p_
 
 <br>
 The following lemma is crucial for the proof of **c1.1** Under the dual
 interpretation, it is mildly reminiscent of modus ponens:
 (p &and; (p -> q)) &harr; (p &and; q)
 
-**lem1.1** &nbsp;&nbsp; | _p ( ( q ) p ) = p q_
+&nbsp;&nbsp; | **lem1.1** &nbsp;&nbsp; | _p ( ( q ) p ) = p q_
 
 <br>
 Proof of **lem1.1**
@@ -335,20 +335,20 @@ Proof of **lem1.1**
 If we now plug _void_ values into **lem1.1**'s _p_ variable, we
 immediately prove:
 
-**c1.1** &nbsp;&nbsp; | ( ( p ) ) = p
+&nbsp;&nbsp; | **c1.1** &nbsp;&nbsp; | ( ( p ) ) = p
 
 <br>
 And plugging _void_ values into **c1.1**'s _p_ variable immediately
 proves the **I2** arithmetic initial:
 
-**i2.1** &nbsp;&nbsp; | ( ( ) ) =
+&nbsp;&nbsp; | **i2.1** &nbsp;&nbsp; | ( ( ) ) =
 
 <br>
 **I2** is also directly derivable from the basis by plugging _void_ values
 into **c6.1**, followed by two applications of **c5.1**. We now prove one of
 the two equations from Basis<sub>0</sub>, **J1**.
 
-**j1.1** &nbsp;&nbsp; | ( ( p ) p ) =
+&nbsp;&nbsp; | **j1.1** &nbsp;&nbsp; | ( ( p ) p ) =
 
 <br>
 Proof of **j1.1**
@@ -370,7 +370,7 @@ Proof of **j1.1**
 <br>
 We now prove **C4**.
 
-**c4.1** &nbsp;&nbsp; | ( ( p ) q ) p = p
+&nbsp;&nbsp; | **c4.1** &nbsp;&nbsp; | ( ( p ) q ) p = p
 
 <br>
 Proof of **c4.1**
@@ -386,7 +386,7 @@ Proof of **c4.1**
 <br>
 We will need this corollary of **c4.1**:
 
-**c4cor.1** &nbsp;&nbsp; | ( p q ) ( p ) = ( p )
+&nbsp;&nbsp; | **c4cor.1** &nbsp;&nbsp; | ( p q ) ( p ) = ( p )
 
 <br>
 Proof of **c4cor.1**
@@ -399,7 +399,7 @@ Proof of **c4cor.1**
 <br>
 And this corollary of **c6.1**:
 
-**c6cor.1** &nbsp;&nbsp; | ( ( p ) q ) ( p q ) = ( q )
+&nbsp;&nbsp; | **c6cor.1** &nbsp;&nbsp; | ( ( p ) q ) ( p q ) = ( q )
 
 <br>
 Proof of **c6cor.1**
@@ -416,7 +416,7 @@ Proof of **c6cor.1**
 <br>
 We prove **C7**.
 
-**c7.1** &nbsp;&nbsp; | ( ( ( p ) q ) r ) = ( p r ) ( ( q ) r )
+&nbsp;&nbsp; | **c7.1** &nbsp;&nbsp; | ( ( ( p ) q ) r ) = ( p r ) ( ( q ) r )
 
 <br>
 Beyond a certain length, proofs become dominated by commutations and
@@ -451,7 +451,7 @@ We can now prove the second of the two equations from Basis<sub>0</sub>, **J2**.
 This completes the proof that Basis<sub>1</sub> is at least as powerful as
 Basis<sub>0</sub>.
 
-**j2.1** &nbsp;&nbsp; | ( ( p ) ( q ) ) r = ( ( p r ) ( q r ) )
+&nbsp;&nbsp; | **j2.1** &nbsp;&nbsp; | ( ( p ) ( q ) ) r = ( ( p r ) ( q r ) )
 
 <br>
 Proof of **j2.1**
@@ -474,12 +474,12 @@ Basis<sub>1</sub>.
 
 #### Basis<sub>2</sub>
 
-**c6.2** &nbsp;&nbsp; | ( ( p ) ( q ) ) ( ( p ) q ) = p
+&nbsp;&nbsp; | **c6.2** &nbsp;&nbsp; | ( ( p ) ( q ) ) ( ( p ) q ) = p
 
 <br>
 An important lemma used in the proof of **c1.2**:
 
-**lem2.2** &nbsp;&nbsp; | ( p ) p = ( q ) q
+&nbsp;&nbsp; | **lem2.2** &nbsp;&nbsp; | ( p ) p = ( q ) q
 
 <br>
 This is a condensed proof of **lem2.2**.
@@ -498,12 +498,12 @@ This is a condensed proof of **lem2.2**.
 Axiom **B3** from Meguire[^3] follows immediately from
 **lem2.2** by plugging _void_ values into _q_.
 
-**b3.2** &nbsp;&nbsp; | ( p ) p = ( )
+&nbsp;&nbsp; | **b3.2** &nbsp;&nbsp; | ( p ) p = ( )
 
 <br>
 Now we prove **c1.2**.
 
-**c1.2** &nbsp;&nbsp; | ( ( p ) ) = p
+&nbsp;&nbsp; | **c1.2** &nbsp;&nbsp; | ( ( p ) ) = p
 
 <br>
 Proof of **c1.2**
@@ -525,7 +525,7 @@ Proof of **c1.2**
 <br>
 Next we prove **J1**.
 
-**j1.2** &nbsp;&nbsp; | ( ( p ) p ) =
+&nbsp;&nbsp; | **j1.2** &nbsp;&nbsp; | ( ( p ) p ) =
 
 <br>
 Proof of **j1.2**
@@ -538,7 +538,7 @@ Proof of **j1.2**
 <br>
 Another lemma.
 
-**lem3.2** &nbsp;&nbsp; | ( p p ) = ( ( ( p ) ) ( ( p ) )
+&nbsp;&nbsp; | **lem3.2** &nbsp;&nbsp; | ( p p ) = ( ( ( p ) ) ( ( p ) )
 
 <br>
 Proof of **lem3.2**
@@ -554,7 +554,7 @@ Proof of **lem3.2**
 We can finally prove **C5**, which demonstrates that Basis<sub>2</sub> is at least
 as strong as Basis<sub>1</sub>.
 
-**c5.2** &nbsp;&nbsp; | p p = p
+&nbsp;&nbsp; | **c5.2** &nbsp;&nbsp; | p p = p
 
 <br>
 Proof of **c5.2**
@@ -578,12 +578,12 @@ algebra is a Boolean algebra. The more familiar form of the Robbins equation
 is  _( ( p q ) ( p ( q ) ) ) = p_, but for this exercise I'll be using the
 equivalent form:
 
-**robbins** &nbsp;&nbsp; | ( ( ( p ) q ) ( p q ) ) = q
+&nbsp;&nbsp; | **robbins** &nbsp;&nbsp; | ( ( ( p ) q ) ( p q ) ) = q
 
 <br>
 First we prove **J1**.
 
-**j1.3** &nbsp;&nbsp; | ( ( p ) p ) =
+&nbsp;&nbsp; | **j1.3** &nbsp;&nbsp; | ( ( p ) p ) =
 
 <br>
 Proof of **j1.3**
@@ -601,7 +601,7 @@ Proof of **j1.3**
 <br>
 Next we prove **C1**.
 
-**c1.3** &nbsp;&nbsp; | ( ( p ) ) = p
+&nbsp;&nbsp; | **c1.3** &nbsp;&nbsp; | ( ( p ) ) = p
 
 <br>
 Proof of **c1.3**
@@ -626,7 +626,7 @@ We now prove **C6**, demonstrating that the Robbins algebra is at least as
 powerful as Boolean algebra. The original proof was simplified according to
 suggestions by Armahedi Mahzar.
 
-**c6.3** &nbsp;&nbsp; | ( ( p ) ( q ) ) ( ( p ) q ) = p
+&nbsp;&nbsp; | **c6.3** &nbsp;&nbsp; | ( ( p ) ( q ) ) ( ( p ) q ) = p
 
 <br>
 Proof of **c6.3**
@@ -662,7 +662,7 @@ need to show that
 Consider the left side of that equation -- it evaluates to a form symmetric in the
 three variables:
 
-**conj3** &nbsp;&nbsp; | ( ( ( ( p ) ( q ) ) ) ( r ) ) = ( ( p ) ( q ) ( r ) )
+&nbsp;&nbsp; | **conj3** &nbsp;&nbsp; | ( ( ( ( p ) ( q ) ) ) ( r ) ) = ( ( p ) ( q ) ( r ) )
 
 <br>
 [This and subsequent proofs will be omitted. See the source file or
@@ -676,7 +676,7 @@ by commutation, will evaluate to the same form as
 <span style="white-space: nowrap;">( ( ( ( p ) ( q ) ) ) ( r ) )</span>
 This completes the proof. See the source for a full formal proof.
 
-**conj-assc** &nbsp;&nbsp; | ( ( ( ( p ) ( q ) ) ) ( r ) ) = ( ( p ) ( ( ( q ) ( r ) ) ) )
+&nbsp;&nbsp; | **conj-assc** &nbsp;&nbsp; | ( ( ( ( p ) ( q ) ) ) ( r ) ) = ( ( p ) ( ( ( q ) ( r ) ) ) )
 
 <br>
 Now I turn to proving the associativity of the biconditional,
@@ -688,7 +688,7 @@ was equivalent to
 <span style="white-space: nowrap;">( ( p ) ( q ) ) ( p q )</span>.
 Here I prove it (see the source).
 
-**bicond** &nbsp;&nbsp; | ( ( ( p ) q ) ( ( q ) p ) ) = ( ( p ) ( q ) ) ( p q )
+&nbsp;&nbsp; | **bicond** &nbsp;&nbsp; | ( ( ( p ) q ) ( ( q ) p ) ) = ( ( p ) ( q ) ) ( p q )
 
 <br>
 Let <span style="white-space: nowrap;">A = p &harr; q = ( ( p ) ( q ) ) ( p q )</span>  
@@ -701,15 +701,15 @@ in other words,
 Consider the left side of that equation -- as in the case of conjunction,
 it evaluates to a form symmetric in the three variables:
 
-**bic3** &nbsp;&nbsp; |( ( ( ( p ) ( q ) ) ( p q ) ) ( r ) ) ( ( ( p ) ( q ) ) ( p q ) r )
- | = ( ( p ) ( q ) ( r ) ) ( p q ( r ) ) ( p ( q ) r ) ( ( p ) q r )
+&nbsp;&nbsp; | **bic3** &nbsp;&nbsp; |( ( ( ( p ) ( q ) ) ( p q ) ) ( r ) ) ( ( ( p ) ( q ) ) ( p q ) r )
+ | | = ( ( p ) ( q ) ( r ) ) ( p q ( r ) ) ( p ( q ) r ) ( ( p ) q r )
 
 <br>
 This completes the informal proof that the biconditional associates. See
 the source for the full proof.
 
-**bicond-assc** &nbsp;&nbsp; |( ( ( ( p ) ( q ) ) ( p q ) ) ( r ) ) ( ( ( p ) ( q ) ) ( p q ) r )
- | = ( ( p ) ( ( ( q ) ( r ) ) ( q r ) ) ) ( p ( ( q ) ( r ) ) ( q r )
+&nbsp;&nbsp; | **bicond-assc** &nbsp;&nbsp; |( ( ( ( p ) ( q ) ) ( p q ) ) ( r ) ) ( ( ( p ) ( q ) ) ( p q ) r )
+ | | = ( ( p ) ( ( ( q ) ( r ) ) ( q r ) ) ) ( p ( ( q ) ( r ) ) ( q r )
 
 <br>
 <br>
