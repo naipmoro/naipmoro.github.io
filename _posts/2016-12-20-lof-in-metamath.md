@@ -335,20 +335,20 @@ Proof of **lem1.1**
 If we now plug _void_ values into **lem1.1**'s _p_ variable, we
 immediately prove:
 
-&nbsp;&nbsp; | **c1.1** &nbsp;&nbsp; | ( ( p ) ) = p
+&nbsp;&nbsp; | **c1.1** &nbsp;&nbsp; | _( ( p ) ) = p_
 
 <br>
 And plugging _void_ values into **c1.1**'s _p_ variable immediately
 proves the **I2** arithmetic initial:
 
-&nbsp;&nbsp; | **i2.1** &nbsp;&nbsp; | ( ( ) ) =
+&nbsp;&nbsp; | **i2.1** &nbsp;&nbsp; | _( ( ) ) =_
 
 <br>
 **I2** is also directly derivable from the basis by plugging _void_ values
 into **c6.1**, followed by two applications of **c5.1**. We now prove one of
 the two equations from Basis<sub>0</sub>, **J1**.
 
-&nbsp;&nbsp; | **j1.1** &nbsp;&nbsp; | ( ( p ) p ) =
+&nbsp;&nbsp; | **j1.1** &nbsp;&nbsp; | _( ( p ) p ) =_
 
 <br>
 Proof of **j1.1**
@@ -370,7 +370,7 @@ Proof of **j1.1**
 <br>
 We now prove **C4**.
 
-&nbsp;&nbsp; | **c4.1** &nbsp;&nbsp; | ( ( p ) q ) p = p
+&nbsp;&nbsp; | **c4.1** &nbsp;&nbsp; | _( ( p ) q ) p = p_
 
 <br>
 Proof of **c4.1**
@@ -386,7 +386,7 @@ Proof of **c4.1**
 <br>
 We will need this corollary of **c4.1**:
 
-&nbsp;&nbsp; | **c4cor.1** &nbsp;&nbsp; | ( p q ) ( p ) = ( p )
+&nbsp;&nbsp; | **c4cor.1** &nbsp;&nbsp; | _( p q ) ( p ) = ( p )_
 
 <br>
 Proof of **c4cor.1**
@@ -399,7 +399,7 @@ Proof of **c4cor.1**
 <br>
 And this corollary of **c6.1**:
 
-&nbsp;&nbsp; | **c6cor.1** &nbsp;&nbsp; | ( ( p ) q ) ( p q ) = ( q )
+&nbsp;&nbsp; | **c6cor.1** &nbsp;&nbsp; | _( ( p ) q ) ( p q ) = ( q )_
 
 <br>
 Proof of **c6cor.1**
@@ -416,7 +416,7 @@ Proof of **c6cor.1**
 <br>
 We prove **C7**.
 
-&nbsp;&nbsp; | **c7.1** &nbsp;&nbsp; | ( ( ( p ) q ) r ) = ( p r ) ( ( q ) r )
+&nbsp;&nbsp; | **c7.1** &nbsp;&nbsp; | _( ( ( p ) q ) r ) = ( p r ) ( ( q ) r )_
 
 <br>
 Beyond a certain length, proofs become dominated by commutations and
@@ -451,7 +451,7 @@ We can now prove the second of the two equations from Basis<sub>0</sub>, **J2**.
 This completes the proof that Basis<sub>1</sub> is at least as powerful as
 Basis<sub>0</sub>.
 
-&nbsp;&nbsp; | **j2.1** &nbsp;&nbsp; | ( ( p ) ( q ) ) r = ( ( p r ) ( q r ) )
+&nbsp;&nbsp; | **j2.1** &nbsp;&nbsp; | _( ( p ) ( q ) ) r = ( ( p r ) ( q r ) )_
 
 <br>
 Proof of **j2.1**
@@ -474,12 +474,12 @@ Basis<sub>1</sub>.
 
 #### Basis<sub>2</sub>
 
-&nbsp;&nbsp; | **c6.2** &nbsp;&nbsp; | ( ( p ) ( q ) ) ( ( p ) q ) = p
+&nbsp;&nbsp; | **c6.2** &nbsp;&nbsp; | _( ( p ) ( q ) ) ( ( p ) q ) = p_
 
 <br>
 An important lemma used in the proof of **c1.2**:
 
-&nbsp;&nbsp; | **lem2.2** &nbsp;&nbsp; | ( p ) p = ( q ) q
+&nbsp;&nbsp; | **lem2.2** &nbsp;&nbsp; | _( p ) p = ( q ) q_
 
 <br>
 This is a condensed proof of **lem2.2**.
@@ -498,12 +498,12 @@ This is a condensed proof of **lem2.2**.
 Axiom **B3** from Meguire[^3] follows immediately from
 **lem2.2** by plugging _void_ values into _q_.
 
-&nbsp;&nbsp; | **b3.2** &nbsp;&nbsp; | ( p ) p = ( )
+&nbsp;&nbsp; | **b3.2** &nbsp;&nbsp; | _( p ) p = ( )_
 
 <br>
 Now we prove **c1.2**.
 
-&nbsp;&nbsp; | **c1.2** &nbsp;&nbsp; | ( ( p ) ) = p
+&nbsp;&nbsp; | **c1.2** &nbsp;&nbsp; | _( ( p ) ) = p_
 
 <br>
 Proof of **c1.2**
@@ -525,7 +525,7 @@ Proof of **c1.2**
 <br>
 Next we prove **J1**.
 
-&nbsp;&nbsp; | **j1.2** &nbsp;&nbsp; | ( ( p ) p ) =
+&nbsp;&nbsp; | **j1.2** &nbsp;&nbsp; | _( ( p ) p ) =_
 
 <br>
 Proof of **j1.2**
@@ -538,7 +538,7 @@ Proof of **j1.2**
 <br>
 Another lemma.
 
-&nbsp;&nbsp; | **lem3.2** &nbsp;&nbsp; | ( p p ) = ( ( ( p ) ) ( ( p ) )
+&nbsp;&nbsp; | **lem3.2** &nbsp;&nbsp; | _( p p ) = ( ( ( p ) ) ( ( p ) )_
 
 <br>
 Proof of **lem3.2**
@@ -554,7 +554,7 @@ Proof of **lem3.2**
 We can finally prove **C5**, which demonstrates that Basis<sub>2</sub> is at least
 as strong as Basis<sub>1</sub>.
 
-&nbsp;&nbsp; | **c5.2** &nbsp;&nbsp; | p p = p
+&nbsp;&nbsp; | **c5.2** &nbsp;&nbsp; | _p p = p_
 
 <br>
 Proof of **c5.2**
@@ -578,12 +578,12 @@ algebra is a Boolean algebra. The more familiar form of the Robbins equation
 is  _( ( p q ) ( p ( q ) ) ) = p_, but for this exercise I'll be using the
 equivalent form:
 
-&nbsp;&nbsp; | **robbins** &nbsp;&nbsp; | ( ( ( p ) q ) ( p q ) ) = q
+&nbsp;&nbsp; | **robbins** &nbsp;&nbsp; | _( ( ( p ) q ) ( p q ) ) = q_
 
 <br>
 First we prove **J1**.
 
-&nbsp;&nbsp; | **j1.3** &nbsp;&nbsp; | ( ( p ) p ) =
+&nbsp;&nbsp; | **j1.3** &nbsp;&nbsp; | _( ( p ) p ) =_
 
 <br>
 Proof of **j1.3**
@@ -601,7 +601,7 @@ Proof of **j1.3**
 <br>
 Next we prove **C1**.
 
-&nbsp;&nbsp; | **c1.3** &nbsp;&nbsp; | ( ( p ) ) = p
+&nbsp;&nbsp; | **c1.3** &nbsp;&nbsp; | _( ( p ) ) = p_
 
 <br>
 Proof of **c1.3**
@@ -626,7 +626,7 @@ We now prove **C6**, demonstrating that the Robbins algebra is at least as
 powerful as Boolean algebra. The original proof was simplified according to
 suggestions by Armahedi Mahzar.
 
-&nbsp;&nbsp; | **c6.3** &nbsp;&nbsp; | ( ( p ) ( q ) ) ( ( p ) q ) = p
+&nbsp;&nbsp; | **c6.3** &nbsp;&nbsp; | _( ( p ) ( q ) ) ( ( p ) q ) = p_
 
 <br>
 Proof of **c6.3**
@@ -662,7 +662,7 @@ need to show that
 Consider the left side of that equation -- it evaluates to a form symmetric in the
 three variables:
 
-&nbsp;&nbsp; | **conj3** &nbsp;&nbsp; | ( ( ( ( p ) ( q ) ) ) ( r ) ) = ( ( p ) ( q ) ( r ) )
+&nbsp;&nbsp; | **conj3** &nbsp;&nbsp; | _( ( ( ( p ) ( q ) ) ) ( r ) ) = ( ( p ) ( q ) ( r ) )_
 
 <br>
 [This and subsequent proofs will be omitted. See the source file or
@@ -676,7 +676,7 @@ by commutation, will evaluate to the same form as
 <span style="white-space: nowrap;">( ( ( ( p ) ( q ) ) ) ( r ) )</span>
 This completes the proof. See the source for a full formal proof.
 
-&nbsp;&nbsp; | **conj-assc** &nbsp;&nbsp; | ( ( ( ( p ) ( q ) ) ) ( r ) ) = ( ( p ) ( ( ( q ) ( r ) ) ) )
+&nbsp;&nbsp; | **conj-assc** &nbsp;&nbsp; | _( ( ( ( p ) ( q ) ) ) ( r ) ) = ( ( p ) ( ( ( q ) ( r ) ) ) )_
 
 <br>
 Now I turn to proving the associativity of the biconditional,
@@ -688,7 +688,7 @@ was equivalent to
 <span style="white-space: nowrap;">( ( p ) ( q ) ) ( p q )</span>.
 Here I prove it (see the source).
 
-&nbsp;&nbsp; | **bicond** &nbsp;&nbsp; | ( ( ( p ) q ) ( ( q ) p ) ) = ( ( p ) ( q ) ) ( p q )
+&nbsp;&nbsp; | **bicond** &nbsp;&nbsp; | _( ( ( p ) q ) ( ( q ) p ) ) = ( ( p ) ( q ) ) ( p q )_
 
 <br>
 Let <span style="white-space: nowrap;">A = p &harr; q = ( ( p ) ( q ) ) ( p q )</span>  
@@ -701,15 +701,15 @@ in other words,
 Consider the left side of that equation -- as in the case of conjunction,
 it evaluates to a form symmetric in the three variables:
 
-&nbsp;&nbsp; | **bic3** &nbsp;&nbsp; |( ( ( ( p ) ( q ) ) ( p q ) ) ( r ) ) ( ( ( p ) ( q ) ) ( p q ) r )
- | | = ( ( p ) ( q ) ( r ) ) ( p q ( r ) ) ( p ( q ) r ) ( ( p ) q r )
+&nbsp;&nbsp; | **bic3** &nbsp;&nbsp; | _( ( ( ( p ) ( q ) ) ( p q ) ) ( r ) ) ( ( ( p ) ( q ) ) ( p q ) r )_
+ | | _= ( ( p ) ( q ) ( r ) ) ( p q ( r ) ) ( p ( q ) r ) ( ( p ) q r )_
 
 <br>
 This completes the informal proof that the biconditional associates. See
 the source for the full proof.
 
-&nbsp;&nbsp; | **bicond-assc** &nbsp;&nbsp; |( ( ( ( p ) ( q ) ) ( p q ) ) ( r ) ) ( ( ( p ) ( q ) ) ( p q ) r )
- | | = ( ( p ) ( ( ( q ) ( r ) ) ( q r ) ) ) ( p ( ( q ) ( r ) ) ( q r )
+&nbsp;&nbsp; | **bicond-assc** &nbsp;&nbsp; | _( ( ( ( p ) ( q ) ) ( p q ) ) ( r ) ) ( ( ( p ) ( q ) ) ( p q ) r )_
+ | | _= ( ( p ) ( ( ( q ) ( r ) ) ( q r ) ) ) ( p ( ( q ) ( r ) ) ( q r )_
 
 <br>
 <br>
