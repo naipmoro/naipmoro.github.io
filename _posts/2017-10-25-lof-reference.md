@@ -6,6 +6,9 @@ date: 2017-10-25
 A collection of essential equations from _LoF_.
 <!--more-->
 
+A [pdf version]({{ "/assets/pdf/lofref.pdf" | absolute_url }})
+is available.
+
 {::comment} load enclose.js {:/comment}
 $\require{enclose}$
 $
