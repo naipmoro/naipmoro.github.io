@@ -240,7 +240,7 @@ and deduces the following consequences [_LoF_, pp. 28-35]:
 &nbsp;&nbsp; | **C7. Echelon**           &nbsp;&nbsp; |      _( ( ( a ) b ) c ) = ( a c ) ( ( b ) c )_
 &nbsp;&nbsp; | **C8. Modified transposition** &nbsp;&nbsp; | _( ( a ) ( b r ) ( c r ) ) = ( ( a ) ( b ) ( c ) ) ( ( a ) ( r ) )_
 &nbsp;&nbsp; | **C9. Crosstransposition** &nbsp;&nbsp; |     _( ( ( b ) ( r ) ) ( ( a ) ( r ) ) ( ( x ) r ) ( ( y ) r ) ) =_
-             |                                         |     _( ( r ) a b )  (r x y )_
+             |                                         |     _( ( r ) a b )  ( r x y )_
 
 <br>
 To see that **J1** and **J2** constitute a complete set of axioms, refer to
