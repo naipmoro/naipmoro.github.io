@@ -109,25 +109,25 @@ axioms.
 
   {:start="4"}
   4. **ax-euc** &nbsp;&nbsp; Two things equal to the same thing are equal to each
-    other. This is Euclid's first Common Notion and, in an equational logic,
-    this and its sibling, transitivity, are the main engine of derivation.
-    Formally,&nbsp; _p = q_ &nbsp;and&nbsp; _r = q_
-    &nbsp;implies&nbsp; _p = r_.
+     other. This is Euclid's first Common Notion and, in an equational logic,
+     this and its sibling, transitivity, are the main engine of derivation.
+     Formally,&nbsp; _p = q_ &nbsp;and&nbsp; _r = q_
+     &nbsp;implies&nbsp; _p = r_.
 
-Euclid's second and third Common Notions are specific to quantity,
-so not exactly common. We can rephrase them as: doing the same thing
-(e.g., applying the same operation) to equal things leaves equal things.
-Applying this to _LoF's_ two operations, enclosure and juxtaposition,
-leads to the next two axioms (looked at differently, these can also be
-seen as substitution/replacement rules).
+     Euclid's second and third Common Notions are specific to quantity,
+     so not exactly common. We can rephrase them as: doing the same thing
+     (e.g., applying the same operation) to equal things leaves equal things.
+     Applying this to _LoF's_ two operations, enclosure and juxtaposition,
+     leads to the next two axioms (looked at differently, these can also be
+     seen as substitution/replacement rules).
 
   {:start="5"}
   5. **ax-beq** &nbsp;&nbsp; Enclosing equal forms leaves equal forms. We can
-    consider this a definition of boundary equality:
-    &nbsp; _p = q_ &nbsp;implies&nbsp; _( p ) = ( q )_.
+     consider this a definition of boundary equality:
+     &nbsp; _p = q_ &nbsp;implies&nbsp; _( p ) = ( q )_.
 
   6. **ax-sub** &nbsp;&nbsp; Juxtaposing the same form with equal forms leaves equal
-    forms: &nbsp; _p = q_ &nbsp;implies&nbsp; _p v = q v_.
+     forms: &nbsp; _p = q_ &nbsp;implies&nbsp; _p v = q v_.
 
 #### _Commutativity of LoF_
 
