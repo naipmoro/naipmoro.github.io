@@ -38,7 +38,8 @@ we simplify every $\CR{\CR{x}}$ to $x$):
      $E \leftrightarrow Ed$.
 
 _Remark._ All three transformations are involutions: whether $t=n,c,$ or $d$,
-$Ett=E$. Among the transformations, duals are particularly significant --- $Ed$
+$Ett=E$. Among the transformations, duals are particularly significant ---
+interpreted logically, $Ed$
 means the same as $E$ with the truth values reversed. Occasionaly, the same
 equation can be the result of more than one transformation. In such cases, we
 arbitrarily choose one for the label.
