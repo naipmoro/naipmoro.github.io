@@ -22,8 +22,8 @@ This is an equation reference for other _Laws of Form_ posts. For axioms
 and consequences, we use Spencer-Brown's original labels. For all other
 equations, we use variations on the following transformations (where
 we simplify every $\CR{\CR{x}}$ to $x$):
-  1. Let the _compliment_ of a form result from
-     crossing the form. Then the compliment of an equation $E$, denoted
+  1. Let the _compliment_ of a form $F$ be the
+     crossed form $\CR{F}$. Then the compliment of an equation $E$, denoted
      by $En$, equates the compliments of the LHS and RHS of $E$.
      For example, if $E$ is $p=q$, then $En$ is $\CR{p}=\CR{q}$. Clearly,
      $E \leftrightarrow En$.
@@ -44,7 +44,7 @@ $Ett=E$. Among the transformations, duals are particularly significant ---
 interpreted logically, $Ed$
 means the same as $E$ with the truth values reversed. Occasionaly, the same
 equation can be the result of more than one transformation. In such cases, we
-arbitrarily choose one for the label.
+arbitrarily choose one of them for the label.
 
 $$\begin{array}{l l}
 \textbf{Axioms} & \\[1ex]
