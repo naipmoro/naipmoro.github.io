@@ -31,7 +31,9 @@ we simplify every $\CR{\CR{x}}$ to $x$):
      variable. For example, the contradual of $\CR{p\,\CR{q}}$ is
      $\CR{\CR{p}\,q}$. The contradual of an equation $E$, denoted by
      $Ec$, equates the contraduals of
-     the LHS and RHS of the equation. Again, $E \leftrightarrow Ec$.
+     the LHS and RHS of the equation. Since we are effectively substituting
+     the same value for each instance of a given variable, $E \leftrightarrow
+     Ec$.
   3. The _dual_ of a form results from crossing every variable _and_ the
      entire form (i.e., a combination of contradual and compliment).
      The dual of an equation $E$ is denoted by $Ed$. As above,
