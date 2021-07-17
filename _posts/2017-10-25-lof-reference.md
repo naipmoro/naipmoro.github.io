@@ -44,7 +44,7 @@ $Ett=E$. Among the transformations, duals are particularly significant ---
 interpreted logically, $Ed$
 means the same as $E$ with the truth values reversed. Occasionaly, the same
 equation can be the result of more than one transformation. In such cases, we
-arbitrarily choose one of them for the label.
+make an arbitrary choice for the label.
 
 $$\begin{array}{l l}
 \textbf{Axioms} & \\[1ex]
@@ -68,6 +68,8 @@ aa = a & \st{(Iteration C5)}\\
 \CR{a}\, a = \CR{\b{a}} & \st{(J1d)}\\
 \CR{\CR{a}\, a b} = & \st{(J1.1 generalization of J1)}\\
 \CR{a c\v{b}}\; \CR{b c} = \CR{\CR{\CR{a\v{b}}\; \CR{b}}\, c} & \st{(J2n)}\\
+\CR{\CR{a\v{b}} \,c\v{b}}\; \CR{\CR{b} c} = \CR{\CR{a b}\, c} & \st{(Combination K5)}\\
+\CR{\CR{a\v{b}}\,\CR{b}}\;\CR{\CR{c\v{b}}\,\CR{d}}  = \CR{\CR{a c \v{b}} \,\CR{a d}\, \CR{b c}\, \CR{b d}} & \st{(Distribution K9)}\\
 \CR{\CR{\b{a}}}\, a = a & \st{(Meguire B2)}\\
 \CR{\CR{\b{a}}\, a} = & \st{(C3n)}\\
 \CR{a b} \;\CR{a\v{b}} = \CR{a\v{b}} & \st{(C4c)}\\
@@ -92,5 +94,11 @@ aa = a & \st{(Iteration C5)}\\
 \end{array}$$
 
 <br>
-_Note:_ Proofs of the general theorems are given
-in [this post]({% post_url 2017-07-28-ch7-lof %}).
+_Notes:_
+  1. Proofs of the general theorems are given
+     in [this post]({% post_url 2017-07-28-ch7-lof %}).
+  2. Corollary _B2_ is from Meguire's _Boundary Algebra: A Simpler Approach to
+     Boolean Algebra and Sentential Logic_ (2020) preprint.
+  3. Corollaries _K5_ and _K9_ are from Kauffman and Varela's _Form Dynamics_
+     (1980) J. Social Bio. Struct.
+  4. This post was updated in June 2021.
