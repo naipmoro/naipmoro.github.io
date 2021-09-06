@@ -539,7 +539,7 @@ Proof of **j1.2**
 <br>
 Another lemma.
 
-&nbsp;&nbsp; | **lem3.2** &nbsp;&nbsp; | _( p p ) = ( ( ( p ) ) ( ( p ) )_
+&nbsp;&nbsp; | **lem3.2** &nbsp;&nbsp; | _( p p ) = ( ( ( p ) ) ( ( p ) ) )_
 
 <br>
 Proof of **lem3.2**
