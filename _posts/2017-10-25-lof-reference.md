@@ -22,9 +22,9 @@ This is an equation reference for other _Laws of Form_ posts. For axioms
 and consequences, we use Spencer-Brown's original labels. For all other
 equations, we use variations on the following transformations (where
 we simplify every $\CR{\CR{x}}$ to $x$):
-  1. Let the _compliment_ of a form $F$ be the
-     crossed form $\CR{F}$. Then the compliment of an equation $E$, denoted
-     by $En$, equates the compliments of the LHS and RHS of $E$.
+  1. Let the _complement_ of a form $F$ be the
+     crossed form $\CR{F}$. Then the complement of an equation $E$, denoted
+     by $En$, equates the complements of the LHS and RHS of $E$.
      For example, if $E$ is $p=q$, then $En$ is $\CR{p}=\CR{q}$. Clearly,
      $E \leftrightarrow En$.
   2. The _contradual_ of a form results from crossing every
@@ -35,7 +35,7 @@ we simplify every $\CR{\CR{x}}$ to $x$):
      the same value for each instance of a given variable, $E \leftrightarrow
      Ec$.
   3. The _dual_ of a form results from crossing every variable _and_ the
-     entire form (i.e., a combination of contradual and compliment).
+     entire form (i.e., a combination of contradual and complement).
      The dual of an equation $E$ is denoted by $Ed$. As above,
      $E \leftrightarrow Ed$.
 
