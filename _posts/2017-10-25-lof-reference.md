@@ -22,8 +22,8 @@ This is an equation reference for other _Laws of Form_ posts. For axioms
 and consequences, we use Spencer-Brown's original labels. For all other
 equations, we use variations on the following transformations (where
 we simplify every $\CR{\CR{x}}$ to $x$):
-  1. Let the _complement_ of a form $F$ be the
-     crossed form $\CR{F}$. Then the complement of an equation $E$, denoted
+  1. Let the _complement_ of a form $p$ be the
+     crossed form $\CR{p}$. Then the complement of an equation $E$, denoted
      by $En$, equates the complements of the LHS and RHS of $E$.
      For example, if $E$ is $p=q$, then $En$ is $\CR{p}=\CR{q}$. Clearly,
      $E \leftrightarrow En$.
@@ -39,12 +39,16 @@ we simplify every $\CR{\CR{x}}$ to $x$):
      The dual of an equation $E$ is denoted by $Ed$. As above,
      $E \leftrightarrow Ed$.
 
-_Remark._ All three transformations are involutions: whether $t=n,c,$ or $d$,
-$Ett=E$. Among the transformations, duals are particularly significant ---
-interpreted logically, $Ed$
-means the same as $E$ with the truth values reversed. Occasionaly, the same
-equation can be the result of more than one transformation. In such cases, we
-make an arbitrary choice for the label.
+_Remark._ All three transformations are involutions: whether $\theta=n,c,$ or
+$d$, $E\theta\theta=E$. Together with the identity transformation, these form a
+Klein 4-group. Among the transformations, duals are particularly significant
+--- interpreted logically, $Ed$ means the same as $E$ with the truth values
+reversed. Occasionaly, the same equation can be the result of more than one
+transformation. In such cases, we make an arbitrary choice for the label.
+
+We may also resort to _selective_ duals and contraduals, where not every
+variable is crossed. An equation will typically have multiple selective
+[contra]duals.
 
 $$\begin{array}{l l}
 \textbf{Axioms} & \\[1ex]
@@ -68,7 +72,7 @@ aa = a & \st{(Iteration C5)}\\
 \CR{a}\, a = \CR{\b{a}} & \st{(J1d)}\\
 \CR{\CR{a}\, a b} = & \st{(J1.1 generalization of J1)}\\
 \CR{a c\v{b}}\; \CR{b c} = \CR{\CR{\CR{a\v{b}}\; \CR{b}}\, c} & \st{(J2n)}\\
-\CR{\CR{a\v{b}} \,c\v{b}}\; \CR{\CR{b} c} = \CR{\CR{a b}\, c} & \st{(Combination K5)}\\
+\CR{\CR{a\v{b}} \,c\v{b}}\; \CR{\CR{b}\, c} = \CR{\CR{a b}\, c} & \st{(Combination K5)}\\
 \CR{\CR{a\v{b}}\,\CR{b}}\;\CR{\CR{c\v{b}}\,\CR{d}}  = \CR{\CR{a c \v{b}} \,\CR{a d}\, \CR{b c}\, \CR{b d}} & \st{(Distribution K9)}\\
 \CR{\CR{\b{a}}}\, a = a & \st{(Meguire B2)}\\
 \CR{\CR{\b{a}}\, a} = & \st{(C3n)}\\
@@ -101,4 +105,4 @@ _Notes:_
      Boolean Algebra and Sentential Logic_ (2020) preprint.
   3. Corollaries _K5_ and _K9_ are from Kauffman and Varela's _Form Dynamics_
      (1980) J. Social Bio. Struct.
-  4. This post was updated in June 2021.
+  4. This post was updated in September 2021.
