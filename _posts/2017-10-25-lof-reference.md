@@ -19,14 +19,14 @@ $
 $
 
 This is an equation reference for other _Laws of Form_ posts. For axioms
-and consequences, we use Spencer-Brown's original labels. For all other
+and consequences, we use Spencer-Brown's original labels. For most other
 equations, we use variations on the following transformations (where
 we simplify every $\CR{\CR{x}}$ to $x$):
   1. Let the _complement_ of a form $p$ be the
      crossed form $\CR{p}$. Then the complement of an equation $E$, denoted
      by $En$, equates the complements of the LHS and RHS of $E$.
-     For example, if $E$ is $p=q$, then $En$ is $\CR{p}=\CR{q}$. Clearly,
-     $E \leftrightarrow En$.
+     For example, if $E$ is $p=q$, then $En$ is $\CR{p}=\CR{q}$. Since
+     $Enn=E$, $E \leftrightarrow En$.
   2. The _contradual_ of a form results from crossing every
      variable. For example, the contradual of $\CR{p\,\CR{q}}$ is
      $\CR{\CR{p}\,q}$. The contradual of an equation $E$, denoted by
