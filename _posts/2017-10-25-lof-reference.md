@@ -69,7 +69,7 @@ aa = a & \st{(Iteration C5)}\\
 = \CR{\CR{r}\, a b}\; \CR{r x y} & \st{(Crosstransposition C9)}\\
  & \\
 \textbf{Corollaries} & \\[1ex]
-\CR{a}\, a = \CR{\b{a}} & \st{(J1d)}\\
+\CR{a}\, a = \CR{\b{a}} & \st{(J1n)}\\
 \CR{\CR{a}\, a b} = & \st{(J1.1 generalization of J1)}\\
 \CR{a c\v{b}}\; \CR{b c} = \CR{\CR{\CR{a\v{b}}\; \CR{b}}\, c} & \st{(J2n)}\\
 \CR{\CR{a\v{b}} \,c\v{b}}\; \CR{\CR{b}\, c} = \CR{\CR{a b}\, c} & \st{(Combination K5)}\\
@@ -105,4 +105,4 @@ _Notes:_
      Boolean Algebra and Sentential Logic_ (2020) preprint.
   3. Corollaries _K5_ and _K9_ are from Kauffman and Varela's _Form Dynamics_
      (1980) J. Social Bio. Struct.
-  4. This post was updated in September 2021.
+  4. This post was updated in September 2021 and November 2025.
